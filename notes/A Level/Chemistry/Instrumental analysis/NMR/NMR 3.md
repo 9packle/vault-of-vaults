@@ -1,0 +1,1 @@
+NMR stands for nuclear magnetic resonance which is a method of determining the functional groups as well as the full structure of a molecule by utilising a proper
