@@ -1,0 +1,1 @@
+NMR stands for nuclear magnetic resonanc
