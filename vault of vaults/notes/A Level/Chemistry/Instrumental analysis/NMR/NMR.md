@@ -1,0 +1,1 @@
+NMR stands for nuclear magnetic resonance which is a method of determining the functional groups as well as the full structure of a molecule by utilising a property of nuclei: their spin. Only atoms with odd numbers of protons and neutrons can be detected by NMR in this way.
