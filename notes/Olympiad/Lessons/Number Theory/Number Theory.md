@@ -1,4 +1,0 @@
----
-
----
-[[Prime numbers]]
