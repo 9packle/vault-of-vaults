@@ -11,14 +11,14 @@
             "id": "b73dabb0ca774072",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "vault of vaults/notes/A Level/Chemistry/Instrumental analysis/NMR/NMR 3.md",
-                "bFile": "vault of vaults/notes/A Level/Chemistry/Instrumental analysis/NMR/NMR 3.md",
-                "aRef": ""
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: NMR 3  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "NMR"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for NMR"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from NMR"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of NMR"
             }
           },
           {
