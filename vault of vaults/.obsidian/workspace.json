@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMR"
+              "title": "13C NMR"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d417970e45d85fe2",
@@ -200,9 +199,24 @@
   },
   "active": "b73dabb0ca774072",
   "lastOpenFiles": [
+    "images from notes/Screenshot 2026-05-23 114010.png",
+    "notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl iodide.md",
+    "images from notes/image 4.png",
+    "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR.md",
+    "images from notes/Screenshot 2026-05-23 113530.png",
+    "images from notes/Screenshot_2026-05-03_at_18.08.51.png",
+    "images from notes/Screenshot_2026-05-04_at_11.33.56.png",
+    "images from notes/Screenshot_2026-05-04_at_12.12.22.png",
+    "images from notes/image 2.png",
+    "images from notes/image 1.png",
+    "images from notes/Untitled.md",
+    "notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl bromide.md",
+    "notes/A Level/Applied Maths/Dynamics/Momentum.md",
+    "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
+    "notes/A Level/Applied Maths/Kinematics.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR.md",
-    "notes/A Level/Chemistry/Instrumental analysis/Instrumental analysis.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
+    "notes/A Level/Chemistry/Instrumental analysis/Instrumental analysis.md",
     "notes/notes.md"
   ]
 }

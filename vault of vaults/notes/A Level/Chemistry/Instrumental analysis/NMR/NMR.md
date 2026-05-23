@@ -1,1 +1,5 @@
-NMR stands for nuclear magnetic resonance which is a method of determining the functional groups as well as the full structure of a molecule by utilising a property of nuclei: their spin. Only atoms with odd numbers of protons and neutrons can be detected by NMR in this way. Then it is possible for a spin flip between the energy levels to occur, which can
+NMR stands for nuclear magnetic resonance which is a method of determining the functional groups as well as the full structure of a molecule by utilising a property of nuclei: their spin. Only atoms with odd numbers of protons and neutrons can be detected by NMR in this way. Then it is possible for a spin flip between the energy levels to occur, which can be detected.
+
+[[1H NMR]]
+
+[[13C NMR]]
