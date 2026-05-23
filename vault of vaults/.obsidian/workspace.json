@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
+                "file": "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/IR spectroscopy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpreting 1H NMR"
+              "title": "IR spectroscopy"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "b73dabb0ca774072",
   "lastOpenFiles": [
-    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
+    "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/IR spectroscopy.md",
+    "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy",
+    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
     "images from notes/Screenshot 2026-05-23 131054.png",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/Interpreting 13C NMR.md",
