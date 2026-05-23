@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/Interpreting IR spectra.md",
+                "file": "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpreting IR spectra"
+              "title": "Interpreting mass spectra"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/Interpreting IR spectra.md",
+                "file": "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interpreting IR spectra"
+              "title": "Outline of Interpreting mass spectra"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "604179c6e98e3259",
+  "active": "b73dabb0ca774072",
   "lastOpenFiles": [
-    "images from notes/Screenshot 2026-05-23 171005.png",
-    "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/Interpreting IR spectra.md",
+    "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Mass spectrometry.md",
+    "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
+    "images from notes/Screenshot 2026-05-23 172728.png",
     "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/IR spectroscopy.md",
+    "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry",
+    "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/Interpreting IR spectra.md",
+    "images from notes/Screenshot 2026-05-23 171005.png",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy",
@@ -219,8 +224,6 @@
     "images from notes/Screenshot 2026-05-23 113530.png",
     "images from notes/Screenshot_2026-05-03_at_18.08.51.png",
     "images from notes/Screenshot_2026-05-04_at_11.33.56.png",
-    "images from notes/Screenshot_2026-05-04_at_12.12.22.png",
-    "images from notes/image 2.png",
     "images from notes/Untitled.md",
     "notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl bromide.md",
     "notes/A Level/Applied Maths/Dynamics/Momentum.md",
