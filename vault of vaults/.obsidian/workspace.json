@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR.md",
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1H NMR"
+              "title": "NMR"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d417970e45d85fe2",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +200,9 @@
   },
   "active": "b73dabb0ca774072",
   "lastOpenFiles": [
+    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/Instrumental analysis.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
-    "notes/notes.md",
-    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR.md"
+    "notes/notes.md"
   ]
 }
