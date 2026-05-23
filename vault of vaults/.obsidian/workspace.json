@@ -11,14 +11,14 @@
             "id": "b73dabb0ca774072",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "vault of vaults/notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
-                "bFile": "vault of vaults/notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
-                "aRef": ""
+                "file": "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Interpreting 1H NMR  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Interpreting 1H NMR"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +199,12 @@
   },
   "active": "b73dabb0ca774072",
   "lastOpenFiles": [
+    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/Interpreting 1H NMR.md",
     "images from notes/Screenshot 2026-05-23 131054.png",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/Interpreting 13C NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/13C NMR.md",
-    "notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
     "notes/A Level/Chemistry/Instrumental analysis/Instrumental analysis.md",
     "images from notes/Screenshot 2026-05-23 123456.png",
     "images from notes/Screenshot 2026-05-23 122703.png",
