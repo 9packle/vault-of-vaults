@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Applied Maths/Applied Maths.md",
+                "file": "notes/A Level/Applied Maths/Kinematics/Kinematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applied Maths"
+              "title": "Kinematics"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bd801d9e7fc033",
+  "active": "b73dabb0ca774072",
   "lastOpenFiles": [
+    "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
+    "notes/A Level/Applied Maths/Applied Maths.md",
     "notes/A Level/Applied Maths/Kinematics",
     "notes/A Level/Applied Maths/Dynamics/Momentum.md",
-    "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
     "notes/A Level/Applied Maths/Kinematics/Kinematics.md",
     "notes/A Level/Applied Maths/Work, energy, power",
-    "notes/A Level/Applied Maths/Applied Maths.md",
     "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
     "images from notes/Screenshot 2026-05-23 175937.png",
     "images from notes/Screenshot 2026-05-23 174823.png",
