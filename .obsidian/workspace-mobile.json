@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "04b65d95f87303a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ace0a0a3ae520a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac108451b5076706",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/13C NMR.md",
+                "bFile": "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/13C NMR.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: 13C NMR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01e388e1c88e68f9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1697847bd7de84d2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ee2772b836b7635a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "dea97f942ade3bdf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "14ef1c6c6fd8b24e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "b0145fdc416f2b03",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "854f6f32fadbad47",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9dd21ad646431c9a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "49ece438b4442857",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "09efe9efb0f53bf5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "de9d596298a13114",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "de9d596298a13114",
+  "lastOpenFiles": [
+    "notes/A Level/Chemistry/Instrumental analysis/NMR/13C NMR/13C NMR.md",
+    "vault of vaults/2026-05-22.md",
+    "vault of vaults/images from notes 1/image 3.png",
+    "vault of vaults/images from notes 1/image 26.png",
+    "vault of vaults/images from notes 1/image 32.png",
+    "vault of vaults/images from notes 1/image 33.png",
+    "vault of vaults/images from notes 1/image.png",
+    "vault of vaults/images from notes 1/image 27.png",
+    "vault of vaults/images from notes 1/image 2.png",
+    "vault of vaults/images from notes 1/image 31.png",
+    "vault of vaults/images from notes 1/image 25.png",
+    "vault of vaults/images from notes 1/image 19.png",
+    "vault of vaults/images from notes 1"
+  ]
+}
