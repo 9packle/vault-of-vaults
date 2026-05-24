@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
+                "file": "notes/A Level/Applied Maths/Applied Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpreting mass spectra"
+              "title": "Applied Maths"
             }
           }
         ]
@@ -197,12 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b73dabb0ca774072",
+  "active": "67bd801d9e7fc033",
   "lastOpenFiles": [
+    "notes/A Level/Applied Maths/Kinematics",
+    "notes/A Level/Applied Maths/Dynamics/Momentum.md",
+    "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
+    "notes/A Level/Applied Maths/Kinematics/Kinematics.md",
+    "notes/A Level/Applied Maths/Work, energy, power",
+    "notes/A Level/Applied Maths/Applied Maths.md",
+    "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
     "images from notes/Screenshot 2026-05-23 175937.png",
     "images from notes/Screenshot 2026-05-23 174823.png",
     "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Mass spectrometry.md",
-    "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
     "images from notes/Screenshot 2026-05-23 172728.png",
     "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/IR spectroscopy.md",
     "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry",
@@ -224,12 +230,8 @@
     "notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl iodide.md",
     "images from notes/image 4.png",
     "images from notes/Screenshot 2026-05-23 113530.png",
-    "images from notes/Screenshot_2026-05-03_at_18.08.51.png",
     "images from notes/Untitled.md",
     "notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl bromide.md",
-    "notes/A Level/Applied Maths/Dynamics/Momentum.md",
-    "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
-    "notes/A Level/Applied Maths/Kinematics.md",
     "notes/notes.md"
   ]
 }
