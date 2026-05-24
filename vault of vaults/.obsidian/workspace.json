@@ -11,14 +11,12 @@
             "id": "b73dabb0ca774072",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": "vault of vaults/.obsidian/plugins/obsidian-excalidraw-plugin/data.json",
-                "bFile": "vault of vaults/.obsidian/plugins/obsidian-excalidraw-plugin/data.json",
-                "aRef": ""
+                "file": "loose work/handwritten/AS further mechanics.md"
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "AS further mechanics"
             }
           }
         ]
@@ -198,13 +196,13 @@
   },
   "active": "b73dabb0ca774072",
   "lastOpenFiles": [
-    "loose work/handwritten/AS further mechanics.md",
+    "notes/A Level/Applied Maths/Dynamics/Momentum.md",
     "notes/A Level/Applied Maths/Kinematics/Kinematics.md",
+    "loose work/handwritten/AS further mechanics.md",
     "conflict-files-obsidian-git.md",
     "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
     "notes/A Level/Applied Maths/Applied Maths.md",
     "notes/A Level/Applied Maths/Kinematics",
-    "notes/A Level/Applied Maths/Dynamics/Momentum.md",
     "notes/A Level/Applied Maths/Work, energy, power",
     "notes/A Level/Chemistry/Instrumental analysis/Mass spectrometry/Interpreting mass spectra.md",
     "images from notes/Screenshot 2026-05-23 175937.png",
