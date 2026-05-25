@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bd801d9e7fc033",
+  "active": "1e5347714078fe2b",
   "lastOpenFiles": [
     "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Reactions of carboxylic acids & derivatives.md",
+    "notes/A Level/Chemistry/Alcohol reactions/Esterification/Esterification.md",
+    "notes/A Level/Chemistry/Aromatic reactions/Phenol reactions/Esterification with acyl chlorides and acid anhydrides.md",
     "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
     "notes/A Level/Chemistry/Aromatic reactions/Phenol reactions/Nitration of phenol.md",
-    "notes/A Level/Chemistry/Aromatic reactions/Phenol reactions/Esterification with acyl chlorides and acid anhydrides.md",
     "notes/A Level/Chemistry/Alcohol reactions/Alcohol reactions.md",
-    "notes/A Level/Chemistry/Alcohol reactions/Esterification/Esterification.md",
     "images from notes/Screenshot 2026-05-25 122800.png",
     "images from notes/Screenshot 2026-05-25 122553.png",
     "notes/A Level/Chemistry/Aromatic reactions/Phenol reactions/Phenol reactions.md",
