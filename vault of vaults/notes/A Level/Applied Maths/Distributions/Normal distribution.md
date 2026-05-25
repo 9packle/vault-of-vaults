@@ -1,0 +1,1 @@
+The normal distribution can be used to model things 
