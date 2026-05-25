@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ae64d1858a93ecaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "599d60c62ddd1793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e4bbcb16409781",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "vault of vaults/loose work/handwritten/AS further mechanics.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AS further mechanics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "754b963b9a2b1353",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ae1f7ef9da97196",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8abc4756cba18b8b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b8ade5cf64665768",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "68f20699230aeb90",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "ee51e76d5c7f367b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0b5593a6a3205ce3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4aeaa94d07732b4d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "12ab757a47d1d679",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8f65658b64a30ab2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "748a9be713755f5e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d7e4bbcb16409781",
+  "lastOpenFiles": [
+    "vault of vaults/images from notes/image.png",
+    "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
+    "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Aldehydes and Ketones/Aldehydes and Ketones.md",
+    "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carbonyl reactions.md",
+    "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides"
+  ]
+}

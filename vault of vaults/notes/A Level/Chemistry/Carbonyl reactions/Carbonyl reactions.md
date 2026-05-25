@@ -5,4 +5,4 @@ The carbonyl group sometimes has a more electrophilic carbon due to the electron
 
 [[Aldehydes and Ketones]]
 
-[[Carboxylic acids, Acid chlorides and Acid anhydrides]]
+[[Carboxylic acids, acid chlorides and acid anhydrides]]
