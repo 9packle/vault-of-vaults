@@ -9,3 +9,6 @@ Acyl (or acid) chlorides contain a $-\textup{COCl}$ functional group which can b
 
 Acyl chlorides are much more reactive and cannot be said to dissolve in water since they react violently in water.
 
+Acid anhydrides contain $\textup{O}=\textup{CO} \textup{C}=\textup{O}$ and can be made from dehydrating ethanoic acid.
+
+They have high boiling points due to the polarity of the molecule, and react with water to for the respective carboxylic acid.

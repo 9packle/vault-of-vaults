@@ -20,3 +20,5 @@ Phenol reacts differently to other alcohols in the following ways:
 [[Reaction with acid chlorides]]
 
 [[Reaction with acid anhydrides]]
+
+[[Esterification with acyl chlorides and acid anhydrides]]

@@ -10,3 +10,5 @@ The -OH group can participate in hydrogen bonding, and the strength of the hydro
 [[Dehydration of alcohols]]
 
 [[Substitution of alcohols]]
+
+[[Esterification]]
