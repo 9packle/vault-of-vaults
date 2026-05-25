@@ -2,3 +2,6 @@ These are all various ways of analysing properties of molecules and gaining info
 
 [[NMR]]
 
+[[IR spectroscopy]]
+
+[[Mass spectrometry]]
