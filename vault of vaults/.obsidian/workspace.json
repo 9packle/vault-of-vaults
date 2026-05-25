@@ -11,12 +11,14 @@
             "id": "b73dabb0ca774072",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "loose work/handwritten/AS further mechanics.md"
+                "aFile": "vault of vaults/.obsidian/workspace.json",
+                "bFile": "vault of vaults/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "AS further mechanics"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -161,14 +163,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "577c6ed8724d0ca1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +190,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7458a434ee9ad0f",
+  "active": "b73dabb0ca774072",
   "lastOpenFiles": [
+    "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
     "loose work/handwritten/AS further mechanics.md",
+    "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides",
     "notes/A Level/Chemistry/Instrumental analysis/IR spectroscopy/IR spectroscopy.md",
     "notes/A Level/Applied Maths/Dynamics/Dynamics.md",
     "notes/A Level/Applied Maths/Dynamics/Momentum.md",
