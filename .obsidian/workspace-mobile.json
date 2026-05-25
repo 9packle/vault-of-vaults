@@ -11,14 +11,12 @@
             "id": "d7e4bbcb16409781",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/main.js",
-                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/main.js",
-                "aRef": ""
+                "file": "vault of vaults/loose work/handwritten/AS further mechanics.md"
               },
-              "icon": "git-pull-request",
-              "title": "Diff: main.js"
+              "icon": "excalidraw-icon",
+              "title": "AS further mechanics"
             }
           }
         ]
@@ -112,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,6 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,6 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "vault of vaults/loose work/handwritten/AS further mechanics.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -178,8 +179,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "748a9be713755f5e",
+  "active": "d7e4bbcb16409781",
   "lastOpenFiles": [
+    "vault of vaults/images from notes/image.png",
     "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
     "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Aldehydes and Ketones/Aldehydes and Ketones.md",
     "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carbonyl reactions.md",
