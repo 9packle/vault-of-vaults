@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbefae9f5a83010",
+        "id": "420ca30e260fa4ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b73dabb0ca774072",
+            "id": "1e5347714078fe2b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "vault of vaults/.obsidian/workspace.json",
-                "bFile": "vault of vaults/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Carboxylic acids, acid chlorides and acid anhydrides"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "d417970e45d85fe2",
@@ -156,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Carboxylic acids, acid chlorides and acid anhydrides"
             }
           },
           {
@@ -195,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b73dabb0ca774072",
+  "active": "1e5347714078fe2b",
   "lastOpenFiles": [
     "notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
     "loose work/handwritten/AS further mechanics.md",
