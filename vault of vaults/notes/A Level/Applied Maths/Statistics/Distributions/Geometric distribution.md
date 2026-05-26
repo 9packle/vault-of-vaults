@@ -6,3 +6,7 @@ where $p$ is the probability of success. It is a discrete distribution, and the 
 $$
 P(X = x) = (1-p)^{x-1}p
 $$
+$$
+P(X > x) = (1-p)^{x-1}
+$$
+For events to be modelled by the geometric distribution they must be
