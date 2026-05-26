@@ -4,10 +4,10 @@
 Phenol reacts differently to other alcohols in the following ways:
 
 - It does not react with hydrogen halides to form aryl halides
-- Its -OH group does not undergo substitution like the -OH group in alcohols
+- Its $-\textup{OH}$ group does not undergo substitution like the $-\textup{OH}$ group in alcohols
 - It is not oxidised in the same way as alcohols
 - It does not undergo elimination reactions
-- It has a lower $pK_a$ value - 9.9 compared to 16 for methanol
+- It has a lower $pK_a$ value of 9.9 compared to 16 for methanol
 
 ![[image 14.png]]
 

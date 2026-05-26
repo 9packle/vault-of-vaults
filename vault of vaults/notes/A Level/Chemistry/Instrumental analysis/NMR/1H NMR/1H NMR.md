@@ -8,7 +8,7 @@ The number of peaks in a spectrum show the number of different hydrogen environm
 
 Here there are two peaks which shows that there are two carbon environments.
 
-The ratio of areas under the peaks, or the integrals, can tell us the ratio of hydrogen atoms in those environments - in this case the ratio is 3:1.
+The ratio of areas under the peaks, or the integrals, can tell us the ratio of hydrogen atoms in those environments - in this case the ratio is $3:1$.
 
 For the horizontal scale $\delta$, it is based off of TMS or tetramethylsilane which produces a peak at 0 $\delta$ ppm. It is defined in this way since all 12 $\textup{H}$ atoms are in the same environment and are all bonded in the same way to the $\textup{Si}$ atom. In addition the electrons in the $\textup{C} - \textup{Si}$ bond are much closer to the hydrogen than in most other compounds, meaning that the hydrogen nuclei are the most shielded from external magnetic field, making it appear to the right of almost every other molecule on a scale.
 

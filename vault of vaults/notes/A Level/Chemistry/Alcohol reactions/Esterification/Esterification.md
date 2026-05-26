@@ -14,4 +14,4 @@ Phenols will not react with carboxylic acids to form a phenyl ester, but will wi
 
 [[Esterification with acyl chlorides and acid anhydrides]]
 
-This is because carboxylic acids are not reactive enough, since the electrons in p-orbitals on the oxygen can join the conjugated $\pi$ - system to make phenol more stable.
+This is because carboxylic acids are not reactive enough, since the electrons in p-orbitals on the oxygen can join the conjugated $\pi$ system to make phenol more stable.

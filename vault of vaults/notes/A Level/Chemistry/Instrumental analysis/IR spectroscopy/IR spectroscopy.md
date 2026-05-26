@@ -2,4 +2,4 @@ IR spectroscopy uses the fact that organic compounds have bonds which will absor
 
 [[Interpreting IR spectra]]
 
-The vertical scale is measured in % transmittance of the IR, and the horizontal scale is measured in wavenumbers ($\textup{cm}^{-1}$), which is calculated by $\frac{1}{\lambda}$ with $\lambda$ being the wavelength of IR absorbed.
+The vertical scale is measured in % transmittance of the IR, and the horizontal scale is measured in wavenumbers $(\textup{cm}^{-1})$, which is calculated by $\frac{1}{\lambda}$ with $\lambda$ being the wavelength of IR absorbed.
