@@ -6,7 +6,9 @@ where $n$ is the number of trials and $p$ is the probability of success for each
 $$
 P(X = x) = \binom{n}{x}p^x(1-p)^{n-x}
 $$
-For events to be modelled by the binomial distribution they must be independent, have a constant rate of success, have a fixed number of trials and only have two outcomes. The mean and variance can be found by
+For events to be modelled by the binomial distribution they must be independent, have a constant rate of success, have a fixed number of trials and only have two outcomes. 
+
+The mean and variance can be found by
 $$
 E(X) = np
 $$
