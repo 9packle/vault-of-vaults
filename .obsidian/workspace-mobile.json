@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
+                "file": "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normal distribution"
+              "title": "Distributions"
             }
           },
           {
@@ -198,12 +198,12 @@
   },
   "active": "3bcb010bd095c144",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Distributions.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Binomial distribution.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Poisson distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Geometric distribution.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Uniform distribution.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Distributions.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Geometric distribution.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Normal distribution testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Hypothesis testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Binomial distribution testing.md",
