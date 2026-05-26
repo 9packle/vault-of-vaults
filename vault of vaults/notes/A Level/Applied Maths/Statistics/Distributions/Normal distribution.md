@@ -20,4 +20,4 @@ The normal distribution can also be used to approximate a binomial distribution 
 
 [[Binomial distribution]]
 
-The conditions for a distribution $X \sim B(n,\, p)$ to be approximated by a normal distribution is that $n$ is large and $p \approx 0.5$. Then for the approximate normal distribution, $\mu = np$ and $\sigma^2 = np(1-p)$. The continuity correction also needs to be applied, where $P(X \geq 10)$ in the binomial distribution is equal to $P(X \geq 9.5)$ in the approximate normal distribution, since the binomial distribution is discrete and the normal distribution is continuous.
+The conditions for a distribution $X \sim Bi(n,\, p)$ to be approximated by a normal distribution is that $n$ is large and $p \approx 0.5$. Then for the approximate normal distribution, $\mu = np$ and $\sigma^2 = np(1-p)$. The continuity correction also needs to be applied, where $P(X \geq 10)$ in the binomial distribution is equal to $P(X \geq 9.5)$ in the approximate normal distribution, since the binomial distribution is discrete and the normal distribution is continuous.
