@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/notes/A Level/Applied Maths/Mechanics/Kinematics/Projectiles.md",
+                "file": "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Dynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projectiles"
+              "title": "Dynamics"
             }
           },
           {
@@ -114,7 +114,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "0b5593a6a3205ce3",
@@ -197,27 +198,27 @@
   },
   "active": "3bcb010bd095c144",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Kinematics/Kinematics.md",
+    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Momentum.md",
+    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Mechanics.md",
+    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power/Work, energy, power.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Kinematics/Projectiles.md",
+    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Kinematics/Kinematics.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Normal distribution testing.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Hypothesis testing.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Binomial distribution testing.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Uniform distribution.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Poisson distribution.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Geometric distribution.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Distributions.md",
+    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Binomial distribution.md",
     "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides/Carboxylic acids, acid chlorides and acid anhydrides.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Dynamics.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Momentum.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power/Work, energy, power.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Mechanics.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Statistics.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Applied Maths.md",
     "vault of vaults/notes/A Level/Chemistry/Chemistry.md",
     "Mechanics.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Poisson distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Hypothesis testing.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Binomial distribution testing.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Normal distribution testing.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Distributions.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Uniform distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Geometric distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Binomial distribution.md",
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Esterification/Esterification.md",
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Oxidation of alcohols/Tertiary alcohols.md",
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Oxidation of alcohols/Secondary alcohols.md",

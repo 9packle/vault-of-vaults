@@ -17,3 +17,7 @@ The maximum height of a projectile is
 $$
 H = \frac{u^2sin^2\theta}{2g}
 $$
+The maximum range of a projectile is
+$$
+R = \frac{u^2sin2\theta}{2g}
+$$
