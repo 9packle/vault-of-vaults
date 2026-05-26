@@ -5,7 +5,9 @@ $$
 where $\mu$ is the mean of the sample and $\sigma$ is the standard distribution. The distribution is a perfect bell-shaped curve, and the mean, median and mode all lie in the centre of the curve. The area under the curve also represents the total probability.
 
 In some cases one of $x$, $\mu$, or $\sigma$ is not given, which means the standard normal distribution is needed: 
-$$Z \sim \mathcal{N}(0,\, 1)$$
+$$
+Z \sim \mathcal{N}(0,\, 1)
+$$
 We can then convert the distribution to the standard distribution: 
 $$
 Z = \frac{X - \mu}{\sigma}

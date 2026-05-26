@@ -1,6 +1,6 @@
 ---
 
 ---
-[[Kinematics]]
+[[Mechanics]]
 
-[[Dynamics]]
+[[Statistics]]
