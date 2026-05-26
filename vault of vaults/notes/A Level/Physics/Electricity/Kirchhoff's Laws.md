@@ -1,0 +1,1 @@
+Kirchhoff's first law states that the total current flowing into a junction
