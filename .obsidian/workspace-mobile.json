@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/notes/A Level/Physics/Electricity/Capacitance.md",
+                "file": "vault of vaults/notes/A Level/Physics/Electricity/EMF and internal resistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitance"
+              "title": "EMF and internal resistance"
             }
           }
         ]
@@ -184,6 +184,8 @@
   "active": "3bcb010bd095c144",
   "lastOpenFiles": [
     "vault of vaults/notes/A Level/Physics/Electricity/Potential difference.md",
+    "vault of vaults/notes/A Level/Physics/Electricity/EMF and internal resistance.md",
+    "vault of vaults/notes/A Level/Physics/Electricity/Drift velocity.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Capacitance.md",
     "vault of vaults/images from notes/IMG_0293.png",
     "vault of vaults/images from notes/IMG_0293.heic",
@@ -202,7 +204,6 @@
     "vault of vaults/notes/A Level/Physics/Uncertainties.md",
     "vault of vaults/notes/A Level/Physics/Untitled.md",
     "vault of vaults/notes/A Level/Physics/Research project",
-    "vault of vaults/notes/A Level/Physics/Electricity/Drift velocity.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Untitled",
     "vault of vaults/notes/A Level/Physics/Electricity",
@@ -217,7 +218,6 @@
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Normal distribution testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Hypothesis testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Binomial distribution testing.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Uniform distribution.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",

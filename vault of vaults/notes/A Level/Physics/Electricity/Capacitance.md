@@ -28,3 +28,4 @@ and when discharging:
 $$
 Q = Q_0e^{-\frac{t}{RC}}
 $$
+These equations can be obtained through integration.
