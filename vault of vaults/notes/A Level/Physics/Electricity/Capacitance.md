@@ -20,3 +20,11 @@ For capacitors in parallel:
 $$
 C = C_1 + C_2 + C_3 + \ldots
 $$
+When a capacitor is charged, its charge varies with time like so:
+$$
+Q = Q_0(1 - e^{-\frac{t}{RC}})
+$$
+and when discharging:
+$$
+Q = Q_0e^{-\frac{t}{RC}}
+$$
