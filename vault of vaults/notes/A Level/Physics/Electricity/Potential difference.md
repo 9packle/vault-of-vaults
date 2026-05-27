@@ -2,3 +2,4 @@ The potential difference is defined as the energy transferred per coulomb, or wr
 $$
 V = \frac{E}{Q}
 $$
+The potential difference across parallel branches of a circuit is the same.
