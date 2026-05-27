@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/notes/A Level/Physics/Electricity/Resistance and superconductivity.md",
+                "file": "vault of vaults/notes/A Level/Physics/Electricity/Potential difference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resistance and superconductivity"
+              "title": "Potential difference"
             }
           }
         ]
@@ -183,11 +183,15 @@
   },
   "active": "3bcb010bd095c144",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Physics/Electricity/Electricity.md",
+    "vault of vaults/images from notes/IMG_0293.png",
+    "vault of vaults/images from notes/IMG_0293.heic",
+    "vault of vaults/images from notes/IMG_0290.PNG",
+    "vault of vaults/images from notes/CL2.17 The Potential Divider.heic",
+    "vault of vaults/notes/A Level/Physics/Electricity/Current and charge.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Resistance and superconductivity.md",
+    "vault of vaults/notes/A Level/Physics/Electricity/Electricity.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Binomial distribution.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Resistivity.md",
-    "vault of vaults/notes/A Level/Physics/Electricity/Current and charge.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Potential difference.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Kirchhoff's Laws.md",
     "vault of vaults/notes/A Level/Chemistry/Aromatic reactions/Aromatic reactions.md",
@@ -213,17 +217,14 @@
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Hypothesis testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing/Binomial distribution testing.md",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Uniform distribution.md",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Poisson distribution.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions",
-    "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Esterification",
     "vault of vaults/images from notes/Screenshot 2026-05-25 122800.png",
     "vault of vaults/images from notes/Screenshot 2026-05-25 122553.png",
     "vault of vaults/images from notes/Screenshot 2026-05-25 120149.png",
-    "vault of vaults/images from notes/image.png",
-    "vault of vaults/notes/A Level/Chemistry/Carbonyl reactions/Carboxylic acids, acid chlorides and acid anhydrides"
+    "vault of vaults/images from notes/image.png"
   ]
 }
