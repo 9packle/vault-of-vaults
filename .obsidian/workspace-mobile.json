@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "ZW integration"
             }
+          },
+          {
+            "id": "89c4b52791c6f872",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "vault of vaults/loose work/handwritten/Drawing 2026-05-28 11.43.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-28 11.43.02.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,9 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74e69e89a9039771",
+  "active": "89c4b52791c6f872",
   "lastOpenFiles": [
     "vault of vaults/loose work/handwritten/ZW integration.md",
+    "vault of vaults/loose work/handwritten/Drawing 2026-05-28 11.43.02.excalidraw.md",
     "vault of vaults/loose work/handwritten/A2.md",
     "vault of vaults/loose work/handwritten/AS further mechanics.md",
     "vault of vaults/notes/A Level/Physics/Electricity/EMF and internal resistance.md",
@@ -215,7 +229,6 @@
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Momentum.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Mechanics.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power/Work, energy, power.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Kinematics/Projectiles.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",
