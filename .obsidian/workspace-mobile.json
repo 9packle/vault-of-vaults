@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74e69e89a9039771",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "vault of vaults/loose work/handwritten/ZW integration.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ZW integration"
-            }
-          },
-          {
             "id": "89c4b52791c6f872",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "Drawing 2026-05-28 11.43.02.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
