@@ -11,28 +11,17 @@
             "id": "89c4b52791c6f872",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "vault of vaults/loose work/handwritten/Physics PEQs 2.2 Resistance.md"
+                "file": "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Physics PEQs 2.2 Resistance"
-            }
-          },
-          {
-            "id": "7fca4aca2ece03f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "vault of vaults/loose work/handwritten/Physics PEQs 2.3 Circuits.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics PEQs 2.3 Circuits"
+              "icon": "lucide-file",
+              "title": "Black-body radiation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +181,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ae1f7ef9da97196",
+  "active": "89c4b52791c6f872",
   "lastOpenFiles": [
+    "vault of vaults/notes/A Level/Physics/Quantum/Electromagnetism.md",
+    "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
     "vault of vaults/loose work/handwritten/Physics PEQs 2.2 Resistance.md",
     "vault of vaults/loose work/handwritten/Physics PEQs 2.3 Circuits.md",
+    "vault of vaults/notes/A Level/Physics/Quantum",
     "vault of vaults/loose work/handwritten/ZW integration.md",
     "vault of vaults/loose work/handwritten/A2.md",
     "vault of vaults/loose work/handwritten/AS further mechanics.md",
@@ -227,13 +219,10 @@
     "vault of vaults/notes/A Level/Physics/Physics.md",
     "vault of vaults/notes/A Level/A Level.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Dynamics.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Momentum.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Mechanics.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics",
-    "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions",
     "vault of vaults/images from notes/Screenshot 2026-05-25 122800.png",
     "vault of vaults/images from notes/Screenshot 2026-05-25 122553.png",
     "vault of vaults/images from notes/Screenshot 2026-05-25 120149.png",

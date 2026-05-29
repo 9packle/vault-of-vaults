@@ -1,0 +1,3 @@
+EM waves were predicted by Maxwell in 1873 by his set of partial differential equations (which were rearranged into the current form we know by Oliver Heaviside) since the equations can be reformulated into the form of a one-dimensional wave equation.
+
+The range of visible light goes from 400 to 700 nm, and the whole EM spectrum goes in the order (from longest to shortest): radio waves, microwaves, infrared, visible, ultraviolet, x-rays, gamma rays.
