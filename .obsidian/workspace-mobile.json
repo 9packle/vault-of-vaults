@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
+                "file": "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black-body radiation"
+              "title": "Photoelectric effect"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "89c4b52791c6f872",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Physics/Quantum/Electromagnetism.md",
     "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
+    "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
+    "vault of vaults/images from notes/IMG_0297.PNG",
+    "vault of vaults/notes/A Level/Physics/Quantum/Electromagnetism.md",
     "vault of vaults/loose work/handwritten/Physics PEQs 2.2 Resistance.md",
     "vault of vaults/loose work/handwritten/Physics PEQs 2.3 Circuits.md",
     "vault of vaults/notes/A Level/Physics/Quantum",
@@ -218,7 +220,6 @@
     "vault of vaults/notes/A Level/Physics/Electricity",
     "vault of vaults/notes/A Level/Physics/Physics.md",
     "vault of vaults/notes/A Level/A Level.md",
-    "vault of vaults/notes/A Level/Applied Maths/Mechanics/Dynamics/Dynamics.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",
