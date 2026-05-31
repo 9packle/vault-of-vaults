@@ -25,12 +25,14 @@
             "id": "7a3280ff545fadc9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "diff-view",
               "state": {
-                "file": "vault of vaults/loose work/handwritten/matrices practice.md"
+                "aFile": "vault of vaults/notes/A Level/Maths/Partial Fractions.md",
+                "bFile": "vault of vaults/notes/A Level/Maths/Partial Fractions.md",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "matrices practice"
+              "icon": "git-pull-request",
+              "title": "Diff: Partial Fractions"
             }
           }
         ],
@@ -196,8 +198,8 @@
   },
   "active": "7a3280ff545fadc9",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Maths/Matrices.md",
     "vault of vaults/loose work/handwritten/matrices practice.md",
+    "vault of vaults/notes/A Level/Maths/Matrices.md",
     "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
     "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
     "vault of vaults/images from notes/IMG_0297.PNG",
