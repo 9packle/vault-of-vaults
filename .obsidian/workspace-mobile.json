@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Matrices"
             }
+          },
+          {
+            "id": "7a3280ff545fadc9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "vault of vaults/loose work/handwritten/matrices practice.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "matrices practice"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89c4b52791c6f872",
+  "active": "7a3280ff545fadc9",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
     "vault of vaults/notes/A Level/Maths/Matrices.md",
+    "vault of vaults/loose work/handwritten/matrices practice.md",
+    "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
     "vault of vaults/notes/A Level/Physics/Quantum/Black-body radiation.md",
     "vault of vaults/images from notes/IMG_0297.PNG",
     "vault of vaults/notes/A Level/Physics/Quantum/Electromagnetism.md",
@@ -219,7 +233,6 @@
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Distributions/Normal distribution.md",
     "vault of vaults/notes/A Level/Physics/Electricity/Untitled",
     "vault of vaults/notes/A Level/Physics/Electricity",
-    "vault of vaults/notes/A Level/Physics/Physics.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Work, energy, power",
     "vault of vaults/notes/A Level/Applied Maths/Statistics/Hypothesis testing",
     "vault of vaults/notes/A Level/Applied Maths/Statistics",
