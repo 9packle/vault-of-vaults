@@ -18,3 +18,20 @@ $$
 $$
 Var(X) = \frac{1-p}{p^2}
 $$
+This can be proven:
+$$
+E(X) = \sum_{x=1}^{\infty} xP(X = x) = \sum_{x=1}^{\infty}xq^{x-1}p
+$$
+$$
+E(X) = p \sum_{x=1}^{\infty}xq^{x-1}
+$$
+$$
+\frac{d}{dq} \left(\sum_{x=0}^{\infty}q^x\right) = \frac{d}{dq}((1-q)^{-1})
+$$
+$$
+\implies \sum_{x=1}^{\infty} xq^{x-1} = \frac{1}{(1-q)^2}
+$$
+$$
+\implies E(X) = \frac{p}{(1-q)^2} = \frac{1}{p}
+$$
+($q = 1-p$)
