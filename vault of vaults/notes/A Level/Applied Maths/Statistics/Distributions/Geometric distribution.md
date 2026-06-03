@@ -7,7 +7,7 @@ $$
 P(X = x) = (1-p)^{x-1}p
 $$
 $$
-P(X > x) = (1-p)^{x-1}
+P(X > x) = (1-p)^x
 $$
 For events to be modelled by the geometric distribution they must be independent, have the same probability of success and immediately stop on the first success.
 
