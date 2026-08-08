@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a3280ff545fadc9",
+            "id": "aefebe95486bbd27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault of vaults/loose work/ESAT paper questions.md",
+                "file": "vault of vaults/personal statement draft 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESAT paper questions"
-            }
-          },
-          {
-            "id": "aefebe95486bbd27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "personal statement draft 2"
             }
           }
         ]
@@ -193,9 +183,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7a3280ff545fadc9",
+  "active": "aefebe95486bbd27",
   "lastOpenFiles": [
     "vault of vaults/personal statement draft 1.md",
+    "vault of vaults/personal statement draft 2.md",
     "vault of vaults/loose work/ESAT paper questions.md",
     "vault of vaults/notes/A Level/Physics/Quantum/Photoelectric effect.md",
     "vault of vaults/notes/A Level/Chemistry/Instrumental analysis/NMR/1H NMR/1H NMR.md",
@@ -220,7 +211,6 @@
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Dehydration of alcohols.md",
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Substitution of alcohols.md",
     "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl iodide.md",
-    "vault of vaults/notes/A Level/Chemistry/Alcohol reactions/Substitution of alcohols/Making an alkyl bromide.md",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Centres of Mass",
     "vault of vaults/images from notes/IMG_0297.PNG",
     "vault of vaults/notes/A Level/Physics/Quantum",
