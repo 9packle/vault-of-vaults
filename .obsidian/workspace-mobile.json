@@ -102,7 +102,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "0b5593a6a3205ce3",
@@ -185,8 +186,8 @@
   },
   "active": "aefebe95486bbd27",
   "lastOpenFiles": [
-    "vault of vaults/notes/A Level/Physics/Research project/Superconductivity - BCS Theory.md",
     "vault of vaults/notes/A Level/Physics/Research project/Brainstorming.md",
+    "vault of vaults/notes/A Level/Physics/Research project/Superconductivity - BCS Theory.md",
     "vault of vaults/Cambridge SAQ draft 1.md",
     "vault of vaults/draft 4 - concise + few fixes.md",
     "vault of vaults/personal statement draft 3.md",
