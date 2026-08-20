@@ -1,0 +1,1 @@
+My interest in chemistry led me to explore further in connected topics. I was intrigued by a video on making a superconductor, which could make a magnet levitate once
