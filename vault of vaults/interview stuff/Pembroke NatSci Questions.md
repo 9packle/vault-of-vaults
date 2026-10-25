@@ -10436,6 +10436,7 @@ So (6+√(35))²⁰ is less than an integer by an extraordinarily tiny amount �
 **Deeper insight**: This is a special case of a more general phenomenon. If a+b√(d) and a-b√(d) are conjugate irrationals (a, b, d integers), then (a+b√(d))ⁿ + (a-b√(d))ⁿ is always an integer. When |a-b√(d)| ⋖ 1, (a+b√(d))ⁿ will be remarkably close to an integer.
 
 </details>
+
 <details>
 <summary><b>💡 Alternative Approach: Linear Recurrence Derivation</b></summary>
 
