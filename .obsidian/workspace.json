@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +201,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec142b47dae1dc1e",
+  "active": "6eb1ce02bf5d37ac",
   "lastOpenFiles": [
     "vault of vaults/loose work/ESAT paper questions.md",
     "vault of vaults/interview stuff/Pembroke NatSci Questions.md",
