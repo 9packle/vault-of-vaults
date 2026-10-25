@@ -9898,14 +9898,13 @@ Each question is organised into collapsible steps using HTML details and summary
 
 ## 1. Calculus
 
+---
+
 ### 1.1 Differentiation
 
----
-
-
----
-
 > **Numbering note**: questions in this appendix run sequentially Q1–Q67. Q11–Q14 appear as two paired entries ("Q11 & Q12", "Q13 & Q14") in §1.4; an earlier draft duplicated the labels Q15–Q18, which this revision corrects.
+
+---
 
 #### Q1: Differentiate xˣ
 
@@ -10082,12 +10081,6 @@ Now differentiate 2 ln(|sin x|) (on intervals where sin x > 0, |sin x| = sin x):
 
 ---
 
-
----
-
-
----
-
 #### Q5: Integrate sec x
 
 <details>
@@ -10207,8 +10200,6 @@ The numerator is precisely the derivative of the denominator. Let u = csc x - co
 ---
 
 ### 1.3 Differential Equations
-
----
 
 
 ---
