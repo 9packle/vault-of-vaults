@@ -1,16 +1,8 @@
-# Cambridge Pembroke College Natural Sciences (Physical/Chemistry) Interview: In-Depth Research Report
-
-**Research date**: 4 October 2026  
-**Scope**: 2016–2026 interview system; 207 Cambridge-wide interview questions (84 Physics, 60 Chemistry, 63 NST Mathematics), after merging questions that appeared in more than one appendix; Pembroke physical/chemistry supervisors' research profiles and representative papers  
-**Application direction**: Chemistry (Physical Chemistry, Spectroscopy, Materials)
-
----
-
 ## Contents
 
 **Part I — Main report**
 
-- Chapter 1: The Pembroke NST Interview System
+- [[#Chapter 1 The Pembroke NST Interview System]]
   - 1.1 Interview Structure: The Distinctive 'Preparation Time' Mechanism
   - 1.2 What They Look For: The Assessment Framework
   - 1.3 Admissions Data and Thresholds
@@ -18,7 +10,7 @@
   - 1.5 Recent Developments and Trends
   - 1.6 A Panoramic View of Cambridge College Interview Characteristics
 
-- Chapter 2: Comprehensive Question Analysis and Preparation Strategy
+- [[#Chapter 2 Comprehensive Question Analysis and Preparation Strategy]]
   - 2.1 The Philosophy Behind the Questions: What Are They Really Testing?
   - 2.2 Distribution of High-Frequency Topics
   - 2.3 Difficulty Tiers and Characteristic Features
@@ -26,7 +18,7 @@
   - 2.5 Preparation Strategy: Where to Begin
   - 2.6 On the Day: Mindset and Pacing
 
-- Chapter 3: Pembroke Physical and Chemistry Interview Supervisors
+- [[#Chapter 3 Pembroke Physical and Chemistry Interview Supervisors]]
   - 3.1 Physical Sciences
   - 3.2 Chemistry
 
@@ -42,7 +34,7 @@
   - 7. Cross-Disciplinary / Integrated Reasoning
   - Method Summary — strategies that recur across the physics questions
 
-- [[#Appendix B Method Summary — Strategies That Recur Across the Chemistry Questions]]
+- [[#Appendix B Cambridge Chemistry Interview Questions — Interactive Guided Discovery Edition]]
   - How to Use This Document
   - 1. Physical Chemistry (Thermodynamics, Kinetics, Electrochemistry, Spectroscopy)
   - 2. Organic Chemistry (Reaction Mechanisms, Synthesis, Stereochemistry)
@@ -89,6 +81,8 @@
 ---
 
 ## Chapter 1: The Pembroke NST Interview System
+
+[[#Contents]]
 
 Pembroke College occupies a distinctive position in Cambridge undergraduate admissions: it is one of the larger and more heavily subscribed of the standard undergraduate colleges, and its Natural Sciences interviews are correspondingly competitive.
 
@@ -152,6 +146,8 @@ Beyond Pembroke, each Cambridge college brings its own flavour to NST interviews
 ---
 
 ## Chapter 2: Comprehensive Question Analysis and Preparation Strategy
+
+[[#Contents]]
 
 This chapter is built on a systematic classification of 207 Cambridge NST interview questions — 84 Physics, 60 Chemistry, 63 NST Mathematics — to distil the underlying logic of question-setting, the distribution of high-frequency topics, and an effective preparation strategy. **A note on the counts:** the three subject totals (84 + 60 + 63) sum exactly to 207, but the topic tallies in §2.2 are *not* mutually exclusive — a Fermi-estimation question, for instance, is tagged under both physics and mathematics — and they do not exhaust the corpus. Read them as frequency signals, not as a partition.
 
@@ -246,6 +242,8 @@ Finally, some practical advice on pacing for the interview day itself:
 
 ## Chapter 3: Pembroke Physical and Chemistry Interview Supervisors
 
+[[#Contents]]
+
 At Cambridge, the undergraduate interview is, at its core, a 'teaching match' — the interviewers are often the very supervisors who will teach you in the years ahead. Understanding their backgrounds, research interests, and teaching styles is not about predicting questions; it is about understanding the angle from which they are likely to ask and the intellectual qualities they value.
 
 ### 3.1 Physical Sciences
@@ -270,12 +268,10 @@ For applicants in physical chemistry or materials science, Professor Grey's rese
 
 ---
 
-*End of main text. What follows are the appendices.*
-
 ---
+# Appendix A: Cambridge Physics Interview Questions — Interactive Guided Exploration
 
 [[#Contents]]
-# Appendix A: Cambridge Physics Interview Questions — Interactive Guided Exploration
 
 > **How to Use This Document**
 >
@@ -5772,6 +5768,8 @@ Working through all 84 physics questions, the same handful of strategies keep ap
 
 # Appendix B: Cambridge Chemistry Interview Questions — Interactive Guided Discovery Edition
 
+[[#Contents]]
+
 > This document reimagines all 60 Cambridge Natural Sciences (Chemistry) undergraduate interview questions from the source chemistry question set as an **interactive guided discovery format**.
 
 ## How to Use This Document
@@ -9858,6 +9856,8 @@ Across all 83 chemistry questions, almost every answer reduces to one of a small
 [[#Contents]]
 # Appendix C — Cambridge NST Mathematics Interview Questions: Interactive Guided-Discovery Edition
 
+[[#Contents]]
+
 > **Compiled**: October 2026
 > **Style**: Socratic guided-discovery — simulating the Cambridge supervision/interview experience
 > **Language**: English
@@ -13184,8 +13184,9 @@ The 95 mathematics questions reward the same disposition that the physics and ch
 
 *This appendix covers 63 mathematics questions drawn from Cambridge NST interviews, each redesigned into an interactive guided-discovery format that emulates the Socratic teaching style of a Cambridge supervision/interview.*
 
-[[#Contents]]
 # Appendix D: Detailed Analysis of Pembroke Physical and Chemistry Interview Supervisors' Representative Papers
+
+[[#Contents]]
 
 This appendix provides a detailed reading of eight representative papers by the three core interview supervisors in physical sciences and chemistry at Pembroke College. Each analysis covers five dimensions — Background, Core Question, Methodology, Key Findings, and Significance — and identifies links to the undergraduate curriculum.
 
@@ -13415,6 +13416,8 @@ Because Dr Smith is a teaching-focused supervisor, her interview is more likely 
 ---
 
 # Appendix E: Ten Moves That Make a Solution Beautiful
+
+[[#Contents]]
 
 Across Appendices A, B and C, the hardest questions almost always turn on a single idea rather than a long calculation. Those ideas are not unrelated tricks — they are variations on about ten transferable moves, and the strongest questions carry them as a collapsible **✨ A Sharper Route** block at the end of the worked solution.
 
