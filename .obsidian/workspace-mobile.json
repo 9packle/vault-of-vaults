@@ -11,10 +11,14 @@
             "id": "a77d28a378ae836e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vault of vaults/notes/Olympiad/ai stuff/UKChO R1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "UKChO R1"
             }
           }
         ]
@@ -179,8 +183,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "748a9be713755f5e",
+  "active": "a77d28a378ae836e",
   "lastOpenFiles": [
+    "vault of vaults/notes/A Level/Physics/Uncertainties.md",
+    "vault of vaults/notes/Olympiad/ai stuff/UKChO R1.md",
     "vault of vaults/ps stuff/SAQ 2 electric boogaloo.md",
     "vault of vaults/ps stuff/personal statement draft 1.md",
     "vault of vaults/ps stuff/SAQ_Guided_Discovery.md",
@@ -208,8 +214,6 @@
     "/vault of vaults/ps stuff/3rgouwogiuh.md",
     "/vault of vaults/ps stuff",
     "/vault of vaults",
-    "asd test for md.md",
-    "vault of vaults/notes/Olympiad/ai stuff/BPhO R1.md",
     "vault of vaults/notes/Olympiad/ai stuff",
     "vault of vaults/notes/A Level/Applied Maths/Mechanics/Centres of Mass",
     "vault of vaults/images from notes/IMG_0297.PNG",
