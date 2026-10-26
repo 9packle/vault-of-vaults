@@ -9853,7 +9853,6 @@ Across all 83 chemistry questions, almost every answer reduces to one of a small
 
 > **End of document.** This document reworks all 60 questions from the source chemistry question set into an interactive guided-discovery format, simulating the Socratic guidance method of Cambridge interviews. Each question uses collapsible details tags to reveal the reasoning process step by step, helping you find the right balance between "thinking for yourself first" and "consulting the guidance".
 
-[[#Contents]]
 # Appendix C — Cambridge NST Mathematics Interview Questions: Interactive Guided-Discovery Edition
 
 [[#Contents]]
