@@ -11587,6 +11587,7 @@ Can also compute recursively:
 **The supervisor may follow up**: "In what other problems do Catalan numbers appear?" — Parenthesis matching, counting binary trees, Dyck paths, triangulations of convex polygons, etc.
 
 </details>
+
 <details>
 <summary><b>💡 Alternative Approach: Derive the Catalan Recurrence from First Principles</b></summary>
 
