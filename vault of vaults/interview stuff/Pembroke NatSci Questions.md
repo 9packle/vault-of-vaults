@@ -5858,13 +5858,13 @@ Good question. If ΔH = −50 kJ/mol, ΔS = +100 J/mol·K:
 
 T = (−50,000)/(+100) = −500 K
 
-A negative absolute temperature is physically impossible (0 K is absolute zero). This means ΔG **can never be zero** — for all positive temperatures, ΔG < 0.
+A negative absolute temperature is physically impossible (0 K is absolute zero). This means ΔG **can never be zero** — for all positive temperatures, ΔG ⋖ 0.
 
 Is this physically reasonable? Perfectly. ΔH is negative (exothermic → favours spontaneity), ΔS is positive (entropy increase → also favours spontaneity). The two are "working together", not opposing each other, so there is no crossover temperature. The reaction is spontaneous at any temperature.
 
 **Core takeaways**:
 - Crossover temperature T = 500 K ≈ 227°C
-- Spontaneous for T < 500 K, non-spontaneous for T > 500 K
+- Spontaneous for T ⋖ 500 K, non-spontaneous for T > 500 K
 - If ΔS > 0: no crossover temperature, spontaneous at all temperatures
 - Key lesson: unit consistency (kJ vs J) is the most common trap in interviews
 
@@ -9853,7 +9853,7 @@ Across all 83 chemistry questions, almost every answer reduces to one of a small
 
 > **End of document.** This document reworks all 60 questions from the source chemistry question set into an interactive guided-discovery format, simulating the Socratic guidance method of Cambridge interviews. Each question uses collapsible details tags to reveal the reasoning process step by step, helping you find the right balance between "thinking for yourself first" and "consulting the guidance".
 
-e# Appendix C — Cambridge NST Mathematics Interview Questions: Interactive Guided-Discovery Edition
+# Appendix C — Cambridge NST Mathematics Interview Questions: Interactive Guided-Discovery Edition
 
 [[#Contents]]
 

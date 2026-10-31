@@ -17,7 +17,7 @@
   - [6. Mathematical Methods & Estimation](#6-mathematical-methods--estimation)
   - [7. Cross-Disciplinary / Integrated Reasoning](#7-cross-disciplinary--integrated-reasoning)
   - [Part I Method Summary — Strategies That Recur Across the Physics Questions](#part-i-method-summary--strategies-that-recur-across-the-physics-questions)
-- [**Part II — Cambridge Chemistry Interview Questions**](#part-ii--cambridge-chemistry-interview-questions)
+- [[#Part II — Cambridge Chemistry Interview Questions]]
   - [1. Physical Chemistry (Thermodynamics, Kinetics, Electrochemistry, Spectroscopy)](#1-physical-chemistry-thermodynamics-kinetics-electrochemistry-spectroscopy)
   - [2. Organic Chemistry (Reaction Mechanisms, Synthesis, Stereochemistry)](#2-organic-chemistry-reaction-mechanisms-synthesis-stereochemistry)
   - [3. Inorganic Chemistry (Periodic Trends, Coordination Chemistry, Crystal Structure)](#3-inorganic-chemistry-periodic-trends-coordination-chemistry-crystal-structure)
@@ -26,7 +26,7 @@
   - [6. Extended: Oxbridge Interview Problems (Official Guidance & Recollections)](#6-extended-oxbridge-interview-problems-official-guidance--recollections)
   - [General Interview Strategy and Techniques](#general-interview-strategy-and-techniques)
   - [Part II Method Summary — Strategies That Recur Across the Chemistry Questions](#part-ii-method-summary--strategies-that-recur-across-the-chemistry-questions)
-- [**Part III — Cambridge NST Mathematics Interview Questions**](#part-iii--cambridge-nst-mathematics-interview-questions)
+- [[#Part III — Cambridge NST Mathematics Interview Questions]]
   - [How to Use This Document](#how-to-use-this-document)
   - [Table of Contents](#table-of-contents)
   - [1. Calculus](#1-calculus)
@@ -39,7 +39,7 @@
   - [Extended: Oxbridge Interview Problems (Official Guidance & Recollections)](#extended-oxbridge-interview-problems-official-guidance--recollections)
   - [Interview Technique Summary](#interview-technique-summary)
   - [Part III Method Summary — Strategies That Recur Across the Mathematics Questions](#part-iii-method-summary--strategies-that-recur-across-the-mathematics-questions)
-- [**Part IV — Ten Moves That Make a Solution Beautiful**](#part-iv--ten-moves-that-make-a-solution-beautiful)
+- [[#Part IV — Ten Moves That Make a Solution Beautiful]]
   - [1. Translate to the steady state, then relax the deviation](#1-translate-to-the-steady-state-then-relax-the-deviation)
   - [2. The area under a function and under its inverse fill a rectangle](#2-the-area-under-a-function-and-under-its-inverse-fill-a-rectangle)
   - [3. Factor the sign before you compute limits](#3-factor-the-sign-before-you-compute-limits)
@@ -2715,7 +2715,7 @@ R_total = R/3 + R/6 + R/3 = **5R/6**
 
 1. **Opposite vs adjacent**: 5R/6 is the resistance between *opposite* corners. If the examiner moves the probes to two vertices sharing an edge, the symmetry sets change and so does the answer — confirm the geometry before quoting the number.
 2. **"Shorted = removed"**: joining equipotential vertices adds wires carrying no current; it does not remove the resistors between the tiers. Check your own count: 3 + 6 + 3 = 12 edges, all accounted for. ✓
-3. **Dimensional sanity**: the answer is a multiple of R between 0 and R — a cube of resistors must conduct *better* than a single R, and 5R/6 < R ✓.
+3. **Dimensional sanity**: the answer is a multiple of R between 0 and R — a cube of resistors must conduct *better* than a single R, and 5R/6 ⋖ R ✓.
 
 </details>
 
@@ -2981,7 +2981,7 @@ Define the potential energy from the field's work, then read the voltage from it
 <details>
 <summary><b>⚠️ Trap check — the sign flip between the two charges</b></summary>
 
-1. **Positive charges are pushed toward lower V; electrons toward higher V.** Part (a)'s positive charge *gained* kinetic energy moving in; the electron *loses* it. The difference is not a different law — it is the same qV with q < 0.
+1. **Positive charges are pushed toward lower V; electrons toward higher V.** Part (a)'s positive charge *gained* kinetic energy moving in; the electron *loses* it. The difference is not a different law — it is the same qV with q ⋖ 0.
 2. **"Higher potential energy = higher potential"** — only for positive q. For the electron, U and V move in opposite directions; keep U = qV in front of you rather than intuition.
 3. **eV arithmetic**: 5.0 eV = 8.0 × 10⁻¹⁹ J; quote both once to show the unit conversion is yours, not the question's.
 
@@ -3001,7 +3001,7 @@ Define the potential energy from the field's work, then read the voltage from it
 
 Cover everything below and write the Lorentz force with its two parts: magnitude **and** direction rule. For an electron, which hand/rule and what extra step?
 
-> F = qvBsinθ gives the size; the direction needs **v** × **B** and then a reversal because q < 0. Candidates who compute magnitudes fluently but fumble directions lose the second half of every electromagnetism mark.
+> F = qvBsinθ gives the size; the direction needs **v** × **B** and then a reversal because q ⋖ 0. Candidates who compute magnitudes fluently but fumble directions lose the second half of every electromagnetism mark.
 
 </details>
 
@@ -3613,7 +3613,7 @@ Why is the pressure inside equal to outside?
 
 The envelope is open, so the interior communicates with the atmosphere: pressure inside equals pressure outside (constant-pressure heating). By PV = nRT at fixed P, raising T lowers n/V — the density of the interior air falls.
 
-The balloon now displaces a volume V of *cold* outside air (mass ρ_out·V) while containing *hot* air (mass ρ_in·V, with ρ_in < ρ_out).
+The balloon now displaces a volume V of *cold* outside air (mass ρ_out·V) while containing *hot* air (mass ρ_in·V, with ρ_in ⋖ ρ_out).
 
 </details>
 </details>
@@ -4398,7 +4398,7 @@ Attempt it yourself before opening anything.
 3. **Intercepts**: f(0) gives the y-intercept; f(x) = 0 gives the x-intercepts.
 4. **Asymptotic behaviour**: dominant term as x → ±∞; vertical asymptotes where the denominator → 0 and the sign on each side.
 5. **First derivative**: f′ = 0 locates stationary points; the sign of f′ between them gives increasing/decreasing — and *which* extrema are which (maximum vs minimum), checked by...
-6. **Second derivative**: f″ > 0 concave up, f″ < 0 concave down; a sign change of f″ at f″ = 0 marks a point of inflection.
+6. **Second derivative**: f″ > 0 concave up, f″ ⋖ 0 concave down; a sign change of f″ at f″ = 0 marks a point of inflection.
 
 </details>
 
@@ -4490,7 +4490,7 @@ Consider f(x) = ln x / x. Then f′(x) = (1 − ln x)/x², which vanishes at x =
 
 Hence f(e) > f(π): (ln e)/e > (ln π)/π ⇒ π ln e > e ln π ⇒ **e^π > π^e**.
 
-Numerically: 3.1117 < 3.1416 confirms the inequality's direction. The whole comparison is one calculus fact — that ln x / x peaks at e — in three lines.
+Numerically: 3.1117 ⋖ 3.1416 confirms the inequality's direction. The whole comparison is one calculus fact — that ln x / x peaks at e — in three lines.
 
 </details>
 
@@ -4791,7 +4791,7 @@ Choose u so its derivative simplifies (inverse trig, logarithm); the remaining i
 
 1. **The sign of the square-root term**: −∫ x/√(1−x²) dx = +√(1−x²). Check by differentiating the final answer — a ten-second habit that catches every sign slip here.
 2. **Choosing u and v the wrong way**: u = x, dv = arcsin(x) dx traps you (you cannot integrate arcsin yet — that is the problem). The "which simplifies on differentiation" test picks the correct split instantly.
-3. **Domain**: |x| < 1 for arcsin as a real function; mention it if the examiner asks about the endpoints ±1 (improper integrals, finite there).
+3. **Domain**: |x| ⋖ 1 for arcsin as a real function; mention it if the examiner asks about the endpoints ±1 (improper integrals, finite there).
 
 </details>
 
@@ -4853,7 +4853,7 @@ f′(x) = −sin x/|sin x|
 <summary><b>📐 Step 3: The piecewise picture</b></summary>
 
 - Where sin x > 0 (2nπ < x < (2n+1)π): f′ = −1
-- Where sin x < 0: f′ = +1
+- Where sin x ⋖ 0: f′ = +1
 - Where sin x = 0: f′ **undefined** — sharp corners
 
 f′ is a **square wave**. And f itself: since cos x = sin(π/2 − x), f(x) = arcsin(sin(π/2 − x)) — a **sawtooth**: on 0 ≤ x ≤ π it is exactly π/2 − x (the arcsin's argument stays in the principal range), then the pattern folds and repeats. Straight ramps joined at cusps; that is why the derivative is a square wave with jump discontinuities.
@@ -5678,7 +5678,7 @@ Practical corollary: glass pH electrodes are calibrated for near-ideal solutions
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Yes. By definition pH = −log₁₀ a_H⁺, so any [H⁺] above 1 mol dm⁻³ gives pH < 0 — concentrated HCl (~12 M) sits at ≈ −1.1. Activity corrections (γ± up to ~10 for 10 M HCl) make it *more* negative. The 0–14 window is an artefact of dilute solutions at 25 °C, not a property of the definition.
+Yes. By definition pH = −log₁₀ a_H⁺, so any [H⁺] above 1 mol dm⁻³ gives pH ⋖ 0 — concentrated HCl (~12 M) sits at ≈ −1.1. Activity corrections (γ± up to ~10 for 10 M HCl) make it *more* negative. The 0–14 window is an artefact of dilute solutions at 25 °C, not a property of the definition.
 
 </details>
 
@@ -5775,7 +5775,7 @@ Once the gold is overboard and on the bottom, it displaces only its own **volume
 
 V_water = m/ρ_gold
 
-Since ρ_gold (19,300 kg/m³) > ρ_water (1,000 kg/m³), V_water < V_boat — each kilogram of gold displaces 1,000 cm³ while aboard but only 52 cm³ once sunk. Less displacement ⇒ the lake level **falls**.
+Since ρ_gold (19,300 kg/m³) > ρ_water (1,000 kg/m³), V_water ⋖ V_boat — each kilogram of gold displaces 1,000 cm³ while aboard but only 52 cm³ once sunk. Less displacement ⇒ the lake level **falls**.
 
 </details>
 </details>
@@ -5785,7 +5785,7 @@ Since ρ_gold (19,300 kg/m³) > ρ_water (1,000 kg/m³), V_water < V_boat — ea
 
 1. **"The level rises"** — comes from picturing the splash. Displacement while afloat is set by *weight*; displacement sunk is set by *volume*; the second is smaller for any dense object.
 2. **"It stays the same"** — true only if the object's density equals water's. "Unchanged" is the special case, not the rule.
-3. **Over-generalising in the other direction**: if the object *floats* on its own (a log, ρ < ρ_water), both regimes displace a weight of water equal to the object's weight, and the level is unchanged. The discriminator is always: does the object need the boat's buoyancy to stay up?
+3. **Over-generalising in the other direction**: if the object *floats* on its own (a log, ρ ⋖ ρ_water), both regimes displace a weight of water equal to the object's weight, and the level is unchanged. The discriminator is always: does the object need the boat's buoyancy to stay up?
 
 </details>
 
@@ -6752,7 +6752,7 @@ The 1 kcal/kg/km anchor masks real physiology: carbohydrate stores (~2000 kcal g
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-≈ **12 Mars bars**: 1 kcal/(kg·km) × 70 kg × 40 km = 2800 kcal ÷ 230 kcal — with the derivation (stride count ∝ distance, so cost ∝ distance, never ½mv²) and the speed answer (per-km cost flat, basal cost down, intensity premium up — cancelling to <20% over the training range). The marks are the right currency and the cancellation bookkeeping; beware remembered answers that are wrong by 4×.
+≈ **12 Mars bars**: 1 kcal/(kg·km) × 70 kg × 40 km = 2800 kcal ÷ 230 kcal — with the derivation (stride count ∝ distance, so cost ∝ distance, never ½mv²) and the speed answer (per-km cost flat, basal cost down, intensity premium up — cancelling to ⋖20% over the training range). The marks are the right currency and the cancellation bookkeeping; beware remembered answers that are wrong by 4×.
 
 </details>
 
@@ -7014,7 +7014,7 @@ Real releases and impacts take finite time, and the v–t kink becomes a steep b
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-v–t graph: straight segment of slope **F/m − g** from the origin (while the force acts), then a straight segment of slope **−g** from t₁ to ground impact — continuous in velocity, with the slope jumping by exactly **F/m** at release. Two slopes, one kink, every feature forced by "slope = net force/mass"; the degenerate case F < mg (ball never rises) is covered by the same formula.
+v–t graph: straight segment of slope **F/m − g** from the origin (while the force acts), then a straight segment of slope **−g** from t₁ to ground impact — continuous in velocity, with the slope jumping by exactly **F/m** at release. Two slopes, one kink, every feature forced by "slope = net force/mass"; the degenerate case F ⋖ mg (ball never rises) is covered by the same formula.
 
 </details>
 
@@ -7039,7 +7039,7 @@ Attempt it yourself before opening anything.
 <details>
 <summary>Stuck? Open this.</summary>
 
-- Let the fingers be at positions x₁ < x₂ along a uniform ruler, centre of mass at x_c. Vertical balance: N₁ + N₂ = W.
+- Let the fingers be at positions x₁ ⋖ x₂ along a uniform ruler, centre of mass at x_c. Vertical balance: N₁ + N₂ = W.
 - Torque about finger 1: N₂(x₂ − x₁) = W(x_c − x₁).
 - Balancing torques about the centre of mass instead gives the load-sharing law: **N₁d₁ = N₂d₂** — the nearer finger carries the bigger share.
 
@@ -7239,7 +7239,7 @@ mgh = ½mv² + ½Iω² with ω = v/r, I = ½mR²:
 
 mgh = ½mv² + ½·(½mR²)·(v²/r²) = ½mv²(1 + R²/(2r²))
 
-With R ≈ 2r: mgh = (3/2)mv² ⟹ v² = 2gh/3 at every height — so v_yoyo = v_rock/√3, and a constant ratio of speeds means a constant ratio of accelerations: **a_yoyo = g/3 < g**.
+With R ≈ 2r: mgh = (3/2)mv² ⟹ v² = 2gh/3 at every height — so v_yoyo = v_rock/√3, and a constant ratio of speeds means a constant ratio of accelerations: **a_yoyo = g/3 ⋖ g**.
 
 The general law, worth quoting as the shape of the answer: a = g/(1 + I/(mr²)) — the yo-yo's acceleration is gravity divided by one plus the rotational penalty factor.
 
@@ -7407,7 +7407,7 @@ Attempt it yourself before opening anything.
 - Free flight: a = −g always (between bounces). Each collision reverses velocity and scales its magnitude by e.
 - Impulse = area under the a–t spike = Δv — that sizes the spike at each bounce.
 - Kinematic identity: launch speed u and apex height h obey u² = 2gh; the collision rule gives u_{n+1} = e·u_n.
-- The total time is a geometric series — which converges only because e < 1.
+- The total time is a geometric series — which converges only because e ⋖ 1.
 
 </details>
 </details>
@@ -7433,7 +7433,7 @@ u_{n+1} = eu_n and u² = 2gh give **h_n = h₀e^{2n}** — geometric decay with 
 
 Total time: flight n lasts t_n = 2u_n/g = 2u₀eⁿ/g, so summing from the first bounce:
 
-Σ t_n = (2u₀/g)·Σeⁿ = (2u₀/g)/(1−e) — convergent because e < 1: **infinitely many bounces in a finite time**, after which the ball rolls with the floor. For h₀ = 1 m, e = 0.8: t_total ≈ 4.5 s (counted from the first bounce; add √(2h₀/g) = u₀/g ≈ 0.45 s if timing from release).
+Σ t_n = (2u₀/g)·Σeⁿ = (2u₀/g)/(1−e) — convergent because e ⋖ 1: **infinitely many bounces in a finite time**, after which the ball rolls with the floor. For h₀ = 1 m, e = 0.8: t_total ≈ 4.5 s (counted from the first bounce; add √(2h₀/g) = u₀/g ≈ 0.45 s if timing from release).
 
 </details>
 
@@ -7449,7 +7449,7 @@ Three deliverables hang on one definition: the v–t sawtooth (jumps of (1+e)u_n
 
 1. **Energy factor confused**: each bounce retains fraction **e²** of the mechanical energy (energy ∝ v² ∝ h), not e — quoting "retains 80% of its energy" for e = 0.8 is a factor-e error.
 2. **Jump sizes wrong**: the v–t jump at impact is (1+e)u_n, not eu_n (the velocity changes from −u_n to +eu_n — a swing of (1+e)u_n); undersizing the jump undersizes every impulse.
-3. **Zeno sum mishandled**: summing from the wrong index, or claiming the ball "never stops bouncing" — the geometric series converges precisely because e < 1; the infinite-bounces-in-finite-time resolution is the mark-bearing subtlety.
+3. **Zeno sum mishandled**: summing from the wrong index, or claiming the ball "never stops bouncing" — the geometric series converges precisely because e ⋖ 1; the infinite-bounces-in-finite-time resolution is the mark-bearing subtlety.
 4. **a–t spikes as finite rectangles**: drawing finite-width rectangles without the area = Δv constraint — the idealisation (infinite height, zero width, fixed area) is the impulse picture, and the area check is quantitative.
 
 </details>
@@ -8212,7 +8212,7 @@ The 108 physics questions (84 native + 24 Oxbridge extension) reward the same di
 <details>
 <summary><b>🔍 Step 1: Opening — state the criterion before touching the numbers</b></summary>
 
-Cover everything below and write the criterion first: spontaneity at constant T and P is decided by **ΔG = ΔH − TΔS**, with spontaneous meaning ΔG < 0. State also the two assumptions you are making: ΔH and ΔS are effectively temperature-independent over the range you will use.
+Cover everything below and write the criterion first: spontaneity at constant T and P is decided by **ΔG = ΔH − TΔS**, with spontaneous meaning ΔG ⋖ 0. State also the two assumptions you are making: ΔH and ΔS are effectively temperature-independent over the range you will use.
 
 > Reaching for numbers before fixing the criterion is how candidates end up answering a different question. The criterion — and its validity conditions — is the first mark.
 
@@ -8242,10 +8242,10 @@ T = (−50,000 J/mol)/(−100 J/mol·K) = **500 K** (≈ 227 °C)
 
 Read the signs as a contest:
 
-- ΔH < 0 (exothermic) — *favours* spontaneity
-- ΔS < 0 (entropy decreases) — *disfavours* it
+- ΔH ⋖ 0 (exothermic) — *favours* spontaneity
+- ΔS ⋖ 0 (entropy decreases) — *disfavours* it
 
-At low T the |TΔS| term is small, ΔG ≈ ΔH < 0: **spontaneous below 500 K**.
+At low T the |TΔS| term is small, ΔG ≈ ΔH ⋖ 0: **spontaneous below 500 K**.
 At high T the entropy penalty swamps the enthalpy gain: **non-spontaneous above 500 K**.
 
 </details>
@@ -8261,7 +8261,7 @@ The whole story is a race between ΔH and TΔS — and it has a symmetric follow
 <summary><b>⚠️ Trap check — the symmetric follow-up</b></summary>
 
 1. **The unit trap** (kJ vs J) is the classic: it produces an answer 1000× wrong, and the examiner plants it deliberately.
-2. **"If ΔS were +100 J/mol·K?"** — then T = −500 K, an impossible temperature. The two signs would *cooperate* (both favour spontaneity), so ΔG < 0 at every real temperature and no crossover exists. Having this ready turns the examiner's follow-up into your showcase.
+2. **"If ΔS were +100 J/mol·K?"** — then T = −500 K, an impossible temperature. The two signs would *cooperate* (both favour spontaneity), so ΔG ⋖ 0 at every real temperature and no crossover exists. Having this ready turns the examiner's follow-up into your showcase.
 3. **"Spontaneous" is a state function claim**: it says nothing about *how fast* — a reaction can be spontaneous and take a century (diamond → graphite). Keep thermodynamics and kinetics separate unprompted.
 
 </details>
@@ -8269,7 +8269,7 @@ The whole story is a race between ΔH and TΔS — and it has a symmetric follow
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-ΔG = ΔH − TΔS = 0 at **T = 500 K ≈ 227 °C** (after converting kJ → J — the planted trap). Since ΔH < 0 and ΔS < 0 fight each other, the reaction is spontaneous for **T < 500 K** and non-spontaneous above. If both had favoured spontaneity (ΔS > 0), no crossover temperature would exist.
+ΔG = ΔH − TΔS = 0 at **T = 500 K ≈ 227 °C** (after converting kJ → J — the planted trap). Since ΔH ⋖ 0 and ΔS ⋖ 0 fight each other, the reaction is spontaneous for **T ⋖ 500 K** and non-spontaneous above. If both had favoured spontaneity (ΔS > 0), no crossover temperature would exist.
 
 </details>
 
@@ -8278,7 +8278,7 @@ The whole story is a race between ΔH and TΔS — and it has a symmetric follow
 <details>
 <summary><b>🔍 Step 1: Opening — one sentence definition each, then the mechanism question</b></summary>
 
-Cover everything below and write: endothermic = absorbs heat from surroundings (ΔH > 0); exothermic = releases heat (ΔH < 0). Then ask yourself the harder question: *where does the energy physically go to or come from*?
+Cover everything below and write: endothermic = absorbs heat from surroundings (ΔH > 0); exothermic = releases heat (ΔH ⋖ 0). Then ask yourself the harder question: *where does the energy physically go to or come from*?
 
 > The examiner's "at the molecular level" is a filter: the macroscopic definitions earn nothing; the bond-energy bookkeeping earns everything.
 
@@ -8295,7 +8295,7 @@ Name the two events and their energy characters.
 Every reaction is two events: **old bonds break** (requires energy — endothermic) and **new bonds form** (releases energy — exothermic). The sign of ΔH is the outcome of the contest:
 
 - Σ(bond energies broken) > Σ(bond energies formed) ⇒ net endothermic
-- Σ(broken) < Σ(formed) ⇒ net exothermic
+- Σ(broken) ⋖ Σ(formed) ⇒ net exothermic
 
 </details>
 </details>
@@ -8488,7 +8488,7 @@ E_a(forward) is the climb from the reactant valley floor to the summit. E_a(reve
 
 **ΔH = E_a(forward) − E_a(reverse)**
 
-Exothermic (ΔH < 0): the forward climb is the smaller one. Endothermic: the larger. (Caveat: this exact subtraction holds for a single barrier; multi-step profiles need care, and strictly the diagram plots energy, enthalpy differing by a small RT term — mention the caveat if pressed.)
+Exothermic (ΔH ⋖ 0): the forward climb is the smaller one. Endothermic: the larger. (Caveat: this exact subtraction holds for a single barrier; multi-step profiles need care, and strictly the diagram plots energy, enthalpy differing by a small RT term — mention the caveat if pressed.)
 
 </details>
 </details>
@@ -9372,7 +9372,7 @@ Compare RO⁻ (alcohol's conjugate base): the charge sits on one oxygen with no 
 
 **Electron-donating groups** (EDG) destabilise A⁻ ⇒ weaker acid.
 
-**Dicarboxylic acids**: pK_a1 < pK_a2 by the same frame — the first deprotonation creates −1 next to a neutral COOH (helped by its −I pull); the second must remove H⁺ from a species already −1, against electrostatic repulsion. The ordering is a *prediction* of the cycle, not a fact to memorise.
+**Dicarboxylic acids**: pK_a1 ⋖ pK_a2 by the same frame — the first deprotonation creates −1 next to a neutral COOH (helped by its −I pull); the second must remove H⁺ from a species already −1, against electrostatic repulsion. The ordering is a *prediction* of the cycle, not a fact to memorise.
 
 </details>
 
@@ -9395,7 +9395,7 @@ Anything stabilising A⁻ strengthens the acid — whether by spreading the char
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Acidity = stability of A⁻: RCOO⁻ delocalises charge over two *equivalent* oxygens (two equal resonance structures), while RO⁻ holds a localised charge — hence pK_a ≈ 4–5 versus ≈16. One thermodynamic frame covers all substituent behaviour: EWGs (−I) stabilise the anion (CF₃COOH, pK_a 0.23), the effect attenuates with distance (ClCH₂– 2.86 vs ClCH₂CH₂– 4.05), and diacid ordering (pK_a1 < pK_a2) follows from removing H⁺ beside −COOH versus beside −COO⁻.
+Acidity = stability of A⁻: RCOO⁻ delocalises charge over two *equivalent* oxygens (two equal resonance structures), while RO⁻ holds a localised charge — hence pK_a ≈ 4–5 versus ≈16. One thermodynamic frame covers all substituent behaviour: EWGs (−I) stabilise the anion (CF₃COOH, pK_a 0.23), the effect attenuates with distance (ClCH₂– 2.86 vs ClCH₂CH₂– 4.05), and diacid ordering (pK_a1 ⋖ pK_a2) follows from removing H⁺ beside −COOH versus beside −COO⁻.
 
 </details>
 
@@ -10888,7 +10888,7 @@ Orbitals fill in order of energy — and the anomalies (d-block inserts, lanthan
 <details>
 <summary><b>🔍 Step 1: Opening — predict, then check the direction twice</b></summary>
 
-Cover everything below and commit to a prediction with reasoning before any data: bare radius grows down the group (Li⁺ < Cs⁺), so you might expect... write it down. Then hold that prediction against the real quantity being asked — speed in solution.
+Cover everything below and commit to a prediction with reasoning before any data: bare radius grows down the group (Li⁺ ⋖ Cs⁺), so you might expect... write it down. Then hold that prediction against the real quantity being asked — speed in solution.
 
 > The question is a trap dressed as a trend question. Committing to the naive prediction *first* is what makes the correction memorable — and exactly what the examiner wants to watch you do.
 
@@ -10947,7 +10947,7 @@ The Λ° ranking is the signature of hydration shells, and the heavy-ion catch-u
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Mobility **increases** down the group — Li⁺ (38.7) < Na⁺ (50.1) < K⁺ (73.5) < Rb⁺ ≈ Cs⁺ (~77) S·cm²/mol — opposite to the bare-radius expectation, because ions move as hydrated complexes and Li⁺'s charge density binds the heaviest shell. The trend saturates at the heavy end (Cs⁺ marginally below Rb⁺). H⁺/OH⁻ break all of this via the Grotthuss hopping mechanism.
+Mobility **increases** down the group — Li⁺ (38.7) ⋖ Na⁺ (50.1) ⋖ K⁺ (73.5) ⋖ Rb⁺ ≈ Cs⁺ (~77) S·cm²/mol — opposite to the bare-radius expectation, because ions move as hydrated complexes and Li⁺'s charge density binds the heaviest shell. The trend saturates at the heavy end (Cs⁺ marginally below Rb⁺). H⁺/OH⁻ break all of this via the Grotthuss hopping mechanism.
 
 </details>
 
@@ -11994,7 +11994,7 @@ Phase-rule bookkeeping: F = C − P + 2 = 1 − 3 + 2 = **0 degrees of freedom**
 <details>
 <summary><b>📐 Step 3: The neighbouring physics</b></summary>
 
-- **Why ice melts under pressure** (the skating story): the melting curve of water leans *left* (ice is less dense, by the Clapeyron equation dP/dT < 0), so squeezing ice lowers its melting point. The classic "pressure melts the ice under a skate blade" arithmetic, however, is quantitatively insufficient — frictional heating does much of the work; honest accounts credit both.
+- **Why ice melts under pressure** (the skating story): the melting curve of water leans *left* (ice is less dense, by the Clapeyron equation dP/dT ⋖ 0), so squeezing ice lowers its melting point. The classic "pressure melts the ice under a skate blade" arithmetic, however, is quantitatively insufficient — frictional heating does much of the work; honest accounts credit both.
 - **Boiling at altitude**: the vapour-pressure curve means water boils below 100 °C on mountains — same physics, different point on the same diagram.
 - **Supercooled/heated metastable states**: water can be coaxed past the triple point briefly; equilibrium diagrams are statements about patience, not about possibility.
 
@@ -12627,11 +12627,11 @@ Attempt it yourself before opening anything.
 
 **(a) Sodium no.** The analogue would need Na⁺ + e⁻ → Na at E° = −2.71 V, far below the potential at which water itself is reduced, at every accessible pH: water always wins, hydrogen evolves, and no sodium ever appears. That is why sodium is extracted from *molten* NaCl — the Downs process — where there is no water to compete.
 
-**(b) CaCO₃.** Solubility *decreasing* as temperature rises means heat is released on dissolving: ΔH_sol < 0, so by Le Chatelier added heat acts as a product and pushes the equilibrium back towards the solid. Consistent with the everyday evidence — kettle scaling from hot water.
+**(b) CaCO₃.** Solubility *decreasing* as temperature rises means heat is released on dissolving: ΔH_sol ⋖ 0, so by Le Chatelier added heat acts as a product and pushes the equilibrium back towards the solid. Consistent with the everyday evidence — kettle scaling from hot water.
 
-**(b) NH₄NO₃.** Spontaneity is decided by ΔG = ΔH − TΔS, never by ΔH alone. Dissolving an ordered ionic lattice into dispersed, hydrated ions is a large entropy gain; for ammonium nitrate TΔS > ΔH (≈ +25.7 kJ mol⁻¹), so ΔG < 0 and the salt dissolves *while cooling its own solution* — the instant cold-pack effect. The two clauses of (b) therefore do not conflict: one reports an enthalpy signature, the other a free-energy outcome.
+**(b) NH₄NO₃.** Spontaneity is decided by ΔG = ΔH − TΔS, never by ΔH alone. Dissolving an ordered ionic lattice into dispersed, hydrated ions is a large entropy gain; for ammonium nitrate TΔS > ΔH (≈ +25.7 kJ mol⁻¹), so ΔG ⋖ 0 and the salt dissolves *while cooling its own solution* — the instant cold-pack effect. The two clauses of (b) therefore do not conflict: one reports an enthalpy signature, the other a free-energy outcome.
 
-Self-check: sign audit — exothermic dissolution plus retrograde solubility is consistent (van't Hoff: d ln K/dT = ΔH/RT² < 0); endothermic yet spontaneous forces a positive entropy term large enough to dominate — which the lattice-dissolution picture supplies ✓.
+Self-check: sign audit — exothermic dissolution plus retrograde solubility is consistent (van't Hoff: d ln K/dT = ΔH/RT² ⋖ 0); endothermic yet spontaneous forces a positive entropy term large enough to dominate — which the lattice-dissolution picture supplies ✓.
 
 </details>
 
@@ -12639,7 +12639,7 @@ Self-check: sign audit — exothermic dissolution plus retrograde solubility is 
 <summary><b>🎯 Step 3: Synthesis — kinetics versus thermodynamics, enthalpy versus entropy</b>
 </summary>
 
-Half (a) is a competition between thermodynamics and kinetics: water's potential window bans sodium outright (thermodynamics), while chromium survives only because overpotential blocks the kinetically favoured competitor. Half (b) is one quantity, ΔG, partitioned two ways: CaCO₃'s dissolution is enthalpy-controlled (ΔH_sol < 0, so warming suppresses it), NH₄NO₃'s is entropy-controlled (TΔS > ΔH, so it dissolves despite absorbing heat). Two criteria, two tools — and the first move was naming which tool belongs to which half.
+Half (a) is a competition between thermodynamics and kinetics: water's potential window bans sodium outright (thermodynamics), while chromium survives only because overpotential blocks the kinetically favoured competitor. Half (b) is one quantity, ΔG, partitioned two ways: CaCO₃'s dissolution is enthalpy-controlled (ΔH_sol ⋖ 0, so warming suppresses it), NH₄NO₃'s is entropy-controlled (TΔS > ΔH, so it dissolves despite absorbing heat). Two criteria, two tools — and the first move was naming which tool belongs to which half.
 
 </details>
 
@@ -12657,7 +12657,7 @@ Half (a) is a competition between thermodynamics and kinetics: water's potential
 <summary><b>✨ A sharper route: one equation dissolves half the question</b>
 </summary>
 
-For (b), write ΔG = ΔH − TΔS *before* looking at either salt and ask the only question that matters: *which term does temperature move?* CaCO₃ is enthalpy-controlled (ΔH_sol < 0, warming pushes it back to solid); NH₄NO₃ is entropy-controlled (TΔS > ΔH, so it dissolves while cooling). Temperature enters both cases — but through different doors, and naming the door is the mark.
+For (b), write ΔG = ΔH − TΔS *before* looking at either salt and ask the only question that matters: *which term does temperature move?* CaCO₃ is enthalpy-controlled (ΔH_sol ⋖ 0, warming pushes it back to solid); NH₄NO₃ is entropy-controlled (TΔS > ΔH, so it dissolves while cooling). Temperature enters both cases — but through different doors, and naming the door is the mark.
 
 </details>
 
@@ -12711,7 +12711,7 @@ Attempt it yourself before opening anything.
 <summary><b>📐 Step 2: Groups, then the shake-up, then the sigmoid</b>
 </summary>
 
-**(i) The first question.** Scan the structure and tally: predominantly hydrocarbon skeleton (long alkyl chain, aromatic rings) with at most a small polar group → the octanol vote wins, expect more soluble in octanol (partition coefficient P > 1, logP > 0). Several –OH / –COOH / –NH₂ groups, or a formal charge → the water vote wins (logP < 0). The named groups, not the bare verdict, carry the mark.
+**(i) The first question.** Scan the structure and tally: predominantly hydrocarbon skeleton (long alkyl chain, aromatic rings) with at most a small polar group → the octanol vote wins, expect more soluble in octanol (partition coefficient P > 1, logP > 0). Several –OH / –COOH / –NH₂ groups, or a formal charge → the water vote wins (logP ⋖ 0). The named groups, not the bare verdict, carry the mark.
 
 **(ii) The experiment.** Shake the sample with a 1:1 octanol/water mixture, then assay the concentration in each phase; the ratio D = C_octanol/C_water is the *distribution coefficient* — a measurable proxy for how the molecule would partition across a lipid membrane.
 
@@ -12761,7 +12761,7 @@ logP — more carefully logD at physiological pH — is a headline descriptor of
 <summary><b>✅ Final answer (the 30-second version)</b>
 </summary>
 
-First part: name the functional groups and vote — predominantly hydrocarbon with small polar groups → more soluble in octanol (logP > 0); several –OH/–COOH/–NH₂ or charged groups → water (logP < 0). Follow-up: the 1:1 shake-up yields the distribution coefficient D = C_octanol/C_water, a membrane-partition proxy; a sigmoid in D versus pH diagnoses an ionisable group — a falling curve means an acid (neutral HA into octanol at low pH, A⁻ held in water past the pK_a), a rising curve a base; the inflection reads pK_a, the plateaus read the neutral P. One line closes it: for an acid, D = P/(1 + 10^(pH − pK_a)).
+First part: name the functional groups and vote — predominantly hydrocarbon with small polar groups → more soluble in octanol (logP > 0); several –OH/–COOH/–NH₂ or charged groups → water (logP ⋖ 0). Follow-up: the 1:1 shake-up yields the distribution coefficient D = C_octanol/C_water, a membrane-partition proxy; a sigmoid in D versus pH diagnoses an ionisable group — a falling curve means an acid (neutral HA into octanol at low pH, A⁻ held in water past the pK_a), a rising curve a base; the inflection reads pK_a, the plateaus read the neutral P. One line closes it: for an acid, D = P/(1 + 10^(pH − pK_a)).
 
 </details>
 
@@ -13063,7 +13063,7 @@ Attempt it yourself before opening anything.
 
 **(iv) H₂O — the network winner.** Each water has two O–H donors *and* two lone-pair acceptors: four hydrogen bonds per molecule, arranged tetrahedrally, building a fully three-dimensional network. Boiling requires these bonds to be broken wholesale and cooperatively, so water — an 18 g mol⁻¹ molecule — boils at 100 °C, anomalously high.
 
-**(v) The summary table.** Hydrogen bonds engaged per molecule: CH₄ 0; HF 2 (1D chain); NH₃ ~3 (pyramidal, non-3D); H₂O 4 (3D network). Boiling order: −162 < −33 < +20 < +100 °C.
+**(v) The summary table.** Hydrogen bonds engaged per molecule: CH₄ 0; HF 2 (1D chain); NH₃ ~3 (pyramidal, non-3D); H₂O 4 (3D network). Boiling order: −162 ⋖ −33 ⋖ +20 ⋖ +100 °C.
 
 Self-check: the ordering agrees with both the counting argument and the measured scale; the molar-mass red herring is excluded — water is the *lightest* of the three hydrogen-bonded molecules, so mass points the wrong way ✓.
 
@@ -13107,7 +13107,7 @@ The vaporisation-enthalpy ladder confirms the bookkeeping: ≈ 8 (CH₄), 23 (NH
 <summary><b>✅ Final answer (the 30-second version)</b>
 </summary>
 
-CH₄ −162 °C < NH₃ −33 °C < HF +20 °C < H₂O +100 °C. CH₄ has no hydrogen bonding — dispersion only; NH₃ hydrogen-bonds but saturates at ~3 bonds per molecule (one acceptor, pyramidal, no extended framework); HF makes the strongest single bonds but only chains — one donor, two partners, a 1D network; H₂O donates two and accepts two → four tetrahedral hydrogen bonds per molecule, a 3D network whose wholesale cleavage gives 100 °C. Count × dimensionality, not mere existence, is the answer.
+CH₄ −162 °C ⋖ NH₃ −33 °C ⋖ HF +20 °C ⋖ H₂O +100 °C. CH₄ has no hydrogen bonding — dispersion only; NH₃ hydrogen-bonds but saturates at ~3 bonds per molecule (one acceptor, pyramidal, no extended framework); HF makes the strongest single bonds but only chains — one donor, two partners, a 1D network; H₂O donates two and accepts two → four tetrahedral hydrogen bonds per molecule, a 3D network whose wholesale cleavage gives 100 °C. Count × dimensionality, not mere existence, is the answer.
 
 </details>
 
@@ -13755,7 +13755,7 @@ ln(sin²x) = **2 ln|sin x|** — the modulus is mandatory, because sin x itself 
 Differentiate each branch to confirm consistency:
 
 - Where sin x > 0: (d)/(dx) 2 ln(sin x) = 2·(cos x)/(sin x) = 2 cot x
-- Where sin x < 0: (d)/(dx) 2 ln(−sin x) = 2·(−cos x)/(−sin x) = 2 cot x
+- Where sin x ⋖ 0: (d)/(dx) 2 ln(−sin x) = 2·(−cos x)/(−sin x) = 2 cot x
 
 Identical on both branches — necessarily so, because the direct route of Step 1 never needed the split at all.
 
@@ -13772,7 +13772,7 @@ Identical on both branches — necessarily so, because the direct route of Step 
 <details>
 <summary><b>🎯 Step 4: Synthesis — the golden trap, named</b></summary>
 
-The temptation ln(sin²x) = 2 ln(sin x) fails exactly where sin x < 0. Its twin is **√sin²x = |sin x|, not sin x** — both errors spring from one false belief, that "ln a² = 2 ln a" and "√a² = a" hold for all a. They hold for a ≥ 0 only. The examiner is not testing the derivative (everyone gets 2 cot x); they are testing whether you notice *where* the slick simplification is illegal.
+The temptation ln(sin²x) = 2 ln(sin x) fails exactly where sin x ⋖ 0. Its twin is **√sin²x = |sin x|, not sin x** — both errors spring from one false belief, that "ln a² = 2 ln a" and "√a² = a" hold for all a. They hold for a ≥ 0 only. The examiner is not testing the derivative (everyone gets 2 cot x); they are testing whether you notice *where* the slick simplification is illegal.
 
 <details>
 <summary><b>💬 Interviewer follow-up (round two)</b></summary>
@@ -13797,7 +13797,7 @@ The round trip is consistent: differentiating ln(sin²x) loses the absolute valu
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **ln(sin²x) ≠ 2 ln(sin x)**: false wherever sin x < 0 — the modulus is not decoration, it is the difference between a true and a false statement.
+1. **ln(sin²x) ≠ 2 ln(sin x)**: false wherever sin x ⋖ 0 — the modulus is not decoration, it is the difference between a true and a false statement.
 2. **Domain shrinkage**: the correct derivative lives on all ℝ∖{nπ}; 2 ln(sin x) lives only where sin x > 0. Check domains the way you check units.
 3. **Forgetting the excluded points**: f is undefined at every nπ (the graph dives to −∞), and 2 cot x blows up at exactly the same points. Function and derivative misbehaving *together* is a consistency check, not a contradiction.
 
@@ -13874,7 +13874,7 @@ Let u = sec x + tan x, so du = sec x(sec x + tan x) dx:
 
 (d)/(dx) ln|sec x + tan x| = (sec x tan x + sec²x)/(sec x + tan x) = (sec x(sec x + tan x))/(sec x + tan x) = sec x ✓
 
-The modulus earns its keep on the branch where cos x < 0: at x = 2.5, sec x + tan x ≈ −2.0 (negative — the log would not exist bare), and the differentiated formula returns sec 2.5 ≈ −1.248 exactly, as a numerical slope check confirms. One formula, both branches.
+The modulus earns its keep on the branch where cos x ⋖ 0: at x = 2.5, sec x + tan x ≈ −2.0 (negative — the log would not exist bare), and the differentiated formula returns sec 2.5 ≈ −1.248 exactly, as a numerical slope check confirms. One formula, both branches.
 
 </details>
 
@@ -13905,7 +13905,7 @@ Think about both before opening.
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **Dropping the absolute value**: sec x + tan x = (1 + sin x)/cos x is negative wherever cos x < 0 (e.g. x = 2.5 gives ≈ −2.0); ln of a negative number does not exist. The modulus is structural, not cosmetic.
+1. **Dropping the absolute value**: sec x + tan x = (1 + sin x)/cos x is negative wherever cos x ⋖ 0 (e.g. x = 2.5 gives ≈ −2.0); ln of a negative number does not exist. The modulus is structural, not cosmetic.
 2. **Dropping +C**: an indefinite integral is a family; the constant is half the answer's meaning.
 3. **Sign error in du**: (sec x + tan x)′ = sec x tan x **+** sec²x — both terms plus. Writing tan x − sec²x lands you on −ln|sec x − tan x|, an antiderivative of −sec x, and differentiating back catches it in one line. That is why Step 3 exists.
 4. **Believing the trick must be found unaided**: the multiplier is a named, non-obvious device. The tested skill is recognising u′/u once it is set up — and verifying the result afterwards.
@@ -13933,7 +13933,7 @@ t = tan(x/2) converts *every* rational trigonometric integral into a rational fu
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-∫ sec x dx = ln|sec x + tan x| + C: multiply by (sec x + tan x)/(sec x + tan x) so the numerator becomes the derivative of the denominator, then ∫ du/u. Differentiating back verifies it on both branches (the modulus is essential where cos x < 0, e.g. x = 2.5); −ln|sec x − tan x| and ½·ln|(1 + sin x)/(1 − sin x)| are the same answer in disguise, and ∫₀^(π/4) sec x dx = ln(1 + √2) ≈ 0.88.
+∫ sec x dx = ln|sec x + tan x| + C: multiply by (sec x + tan x)/(sec x + tan x) so the numerator becomes the derivative of the denominator, then ∫ du/u. Differentiating back verifies it on both branches (the modulus is essential where cos x ⋖ 0, e.g. x = 2.5); −ln|sec x − tan x| and ½·ln|(1 + sin x)/(1 − sin x)| are the same answer in disguise, and ∫₀^(π/4) sec x dx = ln(1 + √2) ≈ 0.88.
 
 </details>
 
@@ -14091,7 +14091,7 @@ Let u = csc x − cot x, so du = csc x(csc x − cot x) dx:
 
 (d)/(dx) ln|csc x − cot x| = (−csc x cot x + csc²x)/(csc x − cot x) = (csc x(csc x − cot x))/(csc x − cot x) = csc x ✓
 
-The modulus matters: csc x − cot x = (1 − cos x)/(sin x) is negative wherever sin x < 0 (e.g. x = 3π/2 gives −2), and the bare logarithm would not exist there. A numerical slope check at x = 4 (where csc 4 ≈ −1.32): the differentiated formula returns ≈ −1.32 exactly.
+The modulus matters: csc x − cot x = (1 − cos x)/(sin x) is negative wherever sin x ⋖ 0 (e.g. x = 3π/2 gives −2), and the bare logarithm would not exist there. A numerical slope check at x = 4 (where csc 4 ≈ −1.32): the differentiated formula returns ≈ −1.32 exactly.
 
 </details>
 
@@ -14124,7 +14124,7 @@ Attempt it yourself first.
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **Dropping the modulus**: csc x − cot x is negative wherever sin x < 0 — the log needs |·| to exist on the whole domain ℝ∖{nπ}.
+1. **Dropping the modulus**: csc x − cot x is negative wherever sin x ⋖ 0 — the log needs |·| to exist on the whole domain ℝ∖{nπ}.
 2. **Sign error in du**: (csc x − cot x)′ = −csc x cot x **+** csc²x. Flipping the first sign lands on the reciprocal multiplier and an antiderivative of −csc x — caught instantly by differentiating back.
 3. **Forgetting +C**, or offering only one of the three equivalent forms when the interviewer asks for "another way to write it".
 4. **Plugging across a singularity**: csc x blows up at x = nπ; a definite integral must not cross one (e.g. ∫₀^π csc x dx diverges — check: near 0, csc x ~ 1/x, logarithmically divergent).
@@ -14541,7 +14541,7 @@ The sign matters: the exponent 20 is **even**, so the tiny number is positive.
 (6+√35)²⁰ = a₂₀ − (6−√35)²⁰, with a₂₀ an integer and the subtracted term ≈ 3.0 × 10⁻²²:
 
 - **Q11**: (6+√35)²⁰ is an integer minus ~10⁻²² — it agrees with an integer to 22 decimal places (specifically, it sits just *below* 3331716554118436344002 by that margin).
-- **Q12**: (6−√35)²⁰ ≈ 3.0 × 10⁻²² — extraordinarily tiny precisely because |6−√35| < 1.
+- **Q12**: (6−√35)²⁰ ≈ 3.0 × 10⁻²² — extraordinarily tiny precisely because |6−√35| ⋖ 1.
 
 <details>
 <summary><b>💬 Interviewer follow-up (round two)</b></summary>
@@ -14577,7 +14577,7 @@ a₂ = 142, a₃ = 1692, a₄ = 20162, … doubling in digits every couple of st
 1. **"Close to an integer" without a direction**: since the correction (6−√35)²⁰ is positive, (6+√35)²⁰ lies just *below* a₂₀ — for odd powers the conjugate term is negative and the power lies just *above* an integer. The sign of the correction is part of the answer.
 2. **Hand-waving the smallness**: "≈ 0, done" loses the mark; quantify it — (0.0839)²⁰ ≈ 3 × 10⁻²² — and note *why* it is small: base below 1, raised to a large power.
 3. **Assuming aₙ is integral "obviously"**: the integrality is the content — it comes from odd-k cancellation plus even-k integrality in the binomial expansion (or from the integer-coefficient recurrence). Say which mechanism you are using.
-4. **Overgeneralising**: the phenomenon needs |conjugate| < 1; (6+√35) and (6−√35) qualify only because 35 sits between 25 and 36, i.e. √35 ≈ 5.92 is within 1 of 6.
+4. **Overgeneralising**: the phenomenon needs |conjugate| ⋖ 1; (6+√35) and (6−√35) qualify only because 35 sits between 25 and 36, i.e. √35 ≈ 5.92 is within 1 of 6.
 
 </details>
 
@@ -14652,7 +14652,7 @@ Now climb to the half-factorial with the recurrence, twice:
 <details>
 <summary><b>📐 Step 3: Sanity checks</b></summary>
 
-- Positive ✓; less than 1! = 1 — a "half step" of the staircase should be smaller than the full first step ✓; more than 0! = 1? No: 0.886 < 1 = 0! too — the function dips between integer points, which is legal (regularity allowed it) and which the ✨ derivation shows explicitly.
+- Positive ✓; less than 1! = 1 — a "half step" of the staircase should be smaller than the full first step ✓; more than 0! = 1? No: 0.886 ⋖ 1 = 0! too — the function dips between integer points, which is legal (regularity allowed it) and which the ✨ derivation shows explicitly.
 - Integers recovered: Γ(2) = 1·Γ(1) = 1! = 1 ✓, Γ(3) = 2 ✓, Γ(4) = 6 ✓ — the recurrence reproduces 1!, 2!, 3! exactly, so the extension agrees with school factorials where both are defined.
 
 </details>
@@ -14804,7 +14804,7 @@ Attempt both before opening — the first is a geometric series, the second is a
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **Summing outside |r| < 1**: S_∞ = a/(1−r) applied to r = 2 or r = −1 is algebra detached from convergence — the derivation's rⁿ must vanish first.
+1. **Summing outside |r| ⋖ 1**: S_∞ = a/(1−r) applied to r = 2 or r = −1 is algebra detached from convergence — the derivation's rⁿ must vanish first.
 2. **Ratio from non-adjacent terms**: reading r from a₁/a₀ when the sequence alternates gives r², not r; test *neighbours*.
 3. **Missing telescoping disguises**: 1/(1·2) + 1/(2·3) + 1/(3·4) + ⋯ looks summable-by-formula but is geometric in no sense; its terms split as (1)/(n) − (1)/(n+1) and collapse to **1**. Run the diagnostic before the formula.
 4. **Pattern from finitely many terms**: 1, 2, 4, 8, … could continue as geometric — or as *any* rule fitting four points. State the assumed rule and move on, but know you have assumed it.
@@ -14828,7 +14828,7 @@ The ratio test generalises |r| < 1 to arbitrary series (lim |aₙ₊₁/aₙ| < 
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Identify by diagnostic — ratios (geometric), first differences (arithmetic), second differences (quadratic family), ratio → φ (Fibonacci-Lucas) — and only then apply the formula. For geometric series the infinite sum S_∞ = a/(1−r) is *derived* by the shift-subtract trick, valid only when |r| < 1 so that rⁿ → 0; instance: 1 + (2/3) + (4/9) + ⋯ = 3, partial-sum checked. The payoffs: 0.999… = 9/10·1/(1−1/10) = 1 exactly, while 1 − 1 + 1 − ⋯ has no sum at all — oscillating partial sums defeat every grouping, and "no limit" is the complete answer.
+Identify by diagnostic — ratios (geometric), first differences (arithmetic), second differences (quadratic family), ratio → φ (Fibonacci-Lucas) — and only then apply the formula. For geometric series the infinite sum S_∞ = a/(1−r) is *derived* by the shift-subtract trick, valid only when |r| ⋖ 1 so that rⁿ → 0; instance: 1 + (2/3) + (4/9) + ⋯ = 3, partial-sum checked. The payoffs: 0.999… = 9/10·1/(1−1/10) = 1 exactly, while 1 − 1 + 1 − ⋯ has no sum at all — oscillating partial sums defeat every grouping, and "no limit" is the complete answer.
 
 </details>
 
@@ -14956,7 +14956,7 @@ With eˣ increasing through 1 at x = 0:
 - x → −∞: eˣ → 0⁺ ⟹ y → 0⁺: horizontal asymptote **y = 0** (approached from above).
 - x → 0⁻: 1 − eˣ → 0⁺ ⟹ y → **+∞**.
 - x → 0⁺: 1 − eˣ → 0⁻ ⟹ y → **−∞**.
-- x → +∞: divide top and bottom by eˣ: y = 1/(e^(−x) − 1) → **−1**: horizontal asymptote **y = −1** (approached from below — y + 1 = 1/(1 − eˣ) < 0).
+- x → +∞: divide top and bottom by eˣ: y = 1/(e^(−x) − 1) → **−1**: horizontal asymptote **y = −1** (approached from below — y + 1 = 1/(1 − eˣ) ⋖ 0).
 
 </details>
 </details>
@@ -14983,7 +14983,7 @@ Two branches of one strictly increasing curve, split by the vertical asymptote x
 <summary><b>⚠️ Trap check</b></summary>
 
 1. **One-sided limits at x = 0**: the two sides diverge with **opposite** signs — check eˣ against 1 on each side; a generic "→ ∞" loses the asymptote's structure.
-2. **Approach direction**: y = −1 is approached from **below** (y + 1 = 1/(1 − eˣ) < 0 for x > 0); y = 0 from **above**. Asymptotes with the wrong side attached are the classic sketch error.
+2. **Approach direction**: y = −1 is approached from **below** (y + 1 = 1/(1 − eˣ) ⋖ 0 for x > 0); y = 0 from **above**. Asymptotes with the wrong side attached are the classic sketch error.
 3. **Jumping between branches**: the function is not defined at 0 and is increasing on each branch separately — but the left branch (→ +∞) sits *above* the right branch (→ −∞); the two branches do not connect.
 
 </details>
@@ -15037,7 +15037,7 @@ Answer both yourself before opening.
 - **Envelope**: −eˣ ≤ eˣ sin x ≤ eˣ — the curve lives between y = −eˣ and y = +eˣ, touching them exactly where |sin x| = 1, i.e. x = π/2 + nπ.
 - **Zeros**: sin x = 0 at x = nπ — evenly spaced, independent of the exponential; the zeros do **not** crowd together or spread out.
 
-The region x < 0: eˣ tiny, so the oscillation is crushed flat against the axis; x > 0: eˣ huge, so the same oscillation is violently amplified.
+The region x ⋖ 0: eˣ tiny, so the oscillation is crushed flat against the axis; x > 0: eˣ huge, so the same oscillation is violently amplified.
 
 </details>
 </details>
@@ -15047,14 +15047,14 @@ The region x < 0: eˣ tiny, so the oscillation is crushed flat against the axis;
 
 y′ = eˣ(sin x + cos x) = √2·eˣ sin(x + π/4) = 0 ⟺ tan x = −1 ⟺ x = −(π)/(4) + nπ
 
-At these points |y| = eˣ/√2 < eˣ — the turning points sit strictly **inside** the envelope (the factor 1/√2), one per lobe. The touchings (x = π/2 + nπ) are not turning points: y′ = √2 eˣ sin(3π/4) = eˣ ≠ 0 there. Same fine structure as the sinc question, opposite growth direction.
+At these points |y| = eˣ/√2 ⋖ eˣ — the turning points sit strictly **inside** the envelope (the factor 1/√2), one per lobe. The touchings (x = π/2 + nπ) are not turning points: y′ = √2 eˣ sin(3π/4) = eˣ ≠ 0 there. Same fine structure as the sinc question, opposite growth direction.
 
 </details>
 
 <details>
 <summary><b>🎯 Step 3: Synthesis — the picture</b></summary>
 
-For x < 0: an oscillation of exponentially shrinking amplitude pressed onto the axis, crossing at every nπ, → 0 as x → −∞. For x > 0: a sine wave whose peaks ride the exploding exponential y = eˣ/√2 at x = 3π/4 + nπ... the lobes alternate in sign with maxima at x = −π/4 + 2nπ... The first positive hump peaks near x = 3π/4 at height e^(3π/4)/√2 ≈ 7.46; the wave crosses zero at every multiple of π and touches the envelope at π/2 + nπ.
+For x ⋖ 0: an oscillation of exponentially shrinking amplitude pressed onto the axis, crossing at every nπ, → 0 as x → −∞. For x > 0: a sine wave whose peaks ride the exploding exponential y = eˣ/√2 at x = 3π/4 + nπ... the lobes alternate in sign with maxima at x = −π/4 + 2nπ... The first positive hump peaks near x = 3π/4 at height e^(3π/4)/√2 ≈ 7.46; the wave crosses zero at every multiple of π and touches the envelope at π/2 + nπ.
 
 <details>
 <summary><b>💬 Interviewer follow-up (round two)</b></summary>
@@ -15140,7 +15140,7 @@ The vertical asymptote is at x = 1, and the two branches blow up with opposite s
 
 On (1, ∞): ln x > 0, so sgn(y) = sgn(sin x): zeros exactly at x = nπ (n = 1, 2, 3, …), lobes alternating in sign exactly as sin x does, bounded by |y| ≤ 1/ln x. The damping is **slow** (1/ln x) — the first lobes are tall (at x = π, envelope 1/ln π ≈ 0.87) and only gradually shrink.
 
-On (0, 1): y < 0, and |y| = sin x/|ln x| grows as x → 1⁻ (numerator → sin 1, denominator → 0⁺ in magnitude) — monotone fall from 0 to −∞ with no wiggles.
+On (0, 1): y ⋖ 0, and |y| = sin x/|ln x| grows as x → 1⁻ (numerator → sin 1, denominator → 0⁺ in magnitude) — monotone fall from 0 to −∞ with no wiggles.
 
 </details>
 
@@ -15154,7 +15154,7 @@ Left branch (0, 1): a smooth, monotone, negative curve sliding from 0 down to �
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **Phantom oscillation on (0, 1)**: sin x does not change sign on (0, 1) — 1 radian < π — so no lobes, no zeros, no wiggles. The branch is monotone and negative.
+1. **Phantom oscillation on (0, 1)**: sin x does not change sign on (0, 1) — 1 radian ⋖ π — so no lobes, no zeros, no wiggles. The branch is monotone and negative.
 2. **"Damped" overstated**: the envelope is 1/ln x — *logarithmically* slow. The lobes are still substantial at x = 10³ (envelope ≈ 0.14). Do not draw them vanishing early.
 3. **Sign of sin 1**: needed for the asymptote directions — sin 1 ≈ +0.84 (1 radian is in the first quadrant). Getting this wrong flips both infinite limits.
 4. **Zero at x = 0?** sin x = 0 at x = 0 but the function is undefined there (ln 0) — the curve *approaches* 0 but never arrives.
@@ -15268,7 +15268,7 @@ y = eˣx³: only zero at x = 0 (triple root — crossing with horizontal tangent
 
 Cover everything below. First move: apply the log law — with the modulus that makes it true on the whole domain: y = ln(sin²x) = **2 ln|sin x|**. The domain is x ≠ nπ, and the function is **even in sin** (the square kills the sign), so the sketch must repeat identically on intervals where sin x is negative — the simplification, done honestly, already contains half the picture.
 
-> The interviewer is listening for the modulus. Writing 2 ln(sin x) silently amputates every interval where sin x < 0 — the most instructive slip in all of log-sketching, and the twin of the classic √sin²x = |sin x| trap.
+> The interviewer is listening for the modulus. Writing 2 ln(sin x) silently amputates every interval where sin x ⋖ 0 — the most instructive slip in all of log-sketching, and the twin of the classic √sin²x = |sin x| trap.
 
 </details>
 
@@ -15282,7 +15282,7 @@ Answer all three yourself before opening.
 
 - **Domain**: sin x ≠ 0 ⟹ x ≠ nπ (excluded points, spaced π apart).
 - **Period**: sin²x has period **π** — the square folds each 2π cycle in half — so the whole graph repeats every π.
-- **Range**: 0 < sin²x ≤ 1 ⟹ ln(sin²x) ≤ 0, with equality (maximum y = 0) exactly where sin²x = 1, i.e. x = π/2 + nπ — *every* midpoint, on both signs of sin x.
+- **Range**: 0 ⋖ sin²x ≤ 1 ⟹ ln(sin²x) ≤ 0, with equality (maximum y = 0) exactly where sin²x = 1, i.e. x = π/2 + nπ — *every* midpoint, on both signs of sin x.
 
 </details>
 </details>
@@ -15290,7 +15290,7 @@ Answer all three yourself before opening.
 <details>
 <summary><b>📐 Step 2: Asymptotes and the lobe</b></summary>
 
-As x → nπ, sin²x → 0⁺, so y = 2 ln|sin x| → −∞: **vertical asymptotes at every multiple of π**. Between consecutive asymptotes the function is a smooth arch: rises from −∞, peaks at 0 at the midpoint x = π/2 + nπ, falls back to −∞. The arch on (π, 2π) — where sin x < 0 — is identical to the one on (0, π), which is exactly what the modulus guaranteed.
+As x → nπ, sin²x → 0⁺, so y = 2 ln|sin x| → −∞: **vertical asymptotes at every multiple of π**. Between consecutive asymptotes the function is a smooth arch: rises from −∞, peaks at 0 at the midpoint x = π/2 + nπ, falls back to −∞. The arch on (π, 2π) — where sin x ⋖ 0 — is identical to the one on (0, π), which is exactly what the modulus guaranteed.
 
 </details>
 
@@ -15375,7 +15375,7 @@ Read all three off the rewrite yourself before opening.
 
 - **Asymptotes**: 1/(x−1) explodes at x = 1 (vertical) and dies as x → ±∞ (horizontal y = 1) — the centre of the hyperbola is (1, 1).
 - **Intercept**: x = 0 ⟹ y = 0 — the curve passes through the origin, which lies on the *left* branch, below the asymptote y = 1.
-- **Monotonicity**: y′ = −1/(x−1)² < 0 everywhere — each branch is strictly decreasing; no turning points.
+- **Monotonicity**: y′ = −1/(x−1)² ⋖ 0 everywhere — each branch is strictly decreasing; no turning points.
 
 </details>
 </details>
@@ -15449,7 +15449,7 @@ Find the extrema yourself before opening.
 
 Calculus: y′ = 1 − 1/x² = 0 ⟹ x = ±1; y″ = 2/x³ confirms minimum at (1, 2), maximum at (−1, −2).
 
-Better — for x > 0, **AM–GM**: x + 1/x ≥ 2√(x·(1/x)) = 2, equality iff x = 1/x ⟺ x = 1. No derivative needed, and the inequality delivers the *global* minimum with its equality condition attached. The left branch follows by odd symmetry: x + 1/x ≤ −2 for x < 0.
+Better — for x > 0, **AM–GM**: x + 1/x ≥ 2√(x·(1/x)) = 2, equality iff x = 1/x ⟺ x = 1. No derivative needed, and the inequality delivers the *global* minimum with its equality condition attached. The left branch follows by odd symmetry: x + 1/x ≤ −2 for x ⋖ 0.
 
 </details>
 </details>
@@ -15471,7 +15471,7 @@ Two hyperbolic branches flanking the line y = x: the right branch a U-ish valley
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **Extrema swapped**: (1, 2) is a **minimum** and (−1, −2) a **maximum** — natural on the right branch (valley), counterintuitive on the left (a peak below the axis). Confirm with y″(−1) = −2 < 0.
+1. **Extrema swapped**: (1, 2) is a **minimum** and (−1, −2) a **maximum** — natural on the right branch (valley), counterintuitive on the left (a peak below the axis). Confirm with y″(−1) = −2 ⋖ 0.
 2. **"Oblique asymptote" missed**: as x → ∞ the curve hugs y = x, not a horizontal line — missing the oblique asymptote is the standard mark-loser here.
 3. **Approach sides**: right branch approaches y = x from above (1/x > 0); left from below. Sign of the perturbation, checked before drawing.
 4. **Range claim "all reals"**: no — the AM–GM wall at ±2 is absolute; values in (−2, 2) are unattainable.
@@ -15495,7 +15495,7 @@ The right branch is the graph behind "minimise surface area for fixed volume" (r
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-y = x + 1/x: odd, vertical asymptote x = 0, oblique asymptote y = x (approached from above right, below left); right branch minimised at (1, 2) by AM–GM (x + 1/x ≥ 2, equality iff x = 1), left branch maximised at (−1, −2) by odd symmetry; range (−∞, −2] ∪ [2, ∞) — the forbidden band |y| < 2 is the point of the curve, and the oblique asymptote is the mark most often lost.
+y = x + 1/x: odd, vertical asymptote x = 0, oblique asymptote y = x (approached from above right, below left); right branch minimised at (1, 2) by AM–GM (x + 1/x ≥ 2, equality iff x = 1), left branch maximised at (−1, −2) by odd symmetry; range (−∞, −2] ∪ [2, ∞) — the forbidden band |y| ⋖ 2 is the point of the curve, and the oblique asymptote is the mark most often lost.
 
 </details>
 
@@ -15704,7 +15704,7 @@ The cumulative count C(t) follows the logistic law
 C(t) = (K)/(1 + e^(−r(t−t₀)))
 
 - K = final attack size (total ever infected); r sets the initial exponential growth rate; t₀ is the inflection point — where C′ peaks, at C = K/2 for the symmetric logistic.
-- **Herd immunity threshold**: if vaccination (or prior infection) immunises a fraction f with f > 1 − 1/R₀, the epidemic cannot take off — R₀(1−f) < 1. Numbers: flu R₀ ≈ 1.3 → threshold ≈ 23%; a COVID-like R₀ ≈ 3 → ≈ 67%; measles R₀ ≈ 12–18 → ≈ 92%. Higher R₀, harsher the vaccination bar.
+- **Herd immunity threshold**: if vaccination (or prior infection) immunises a fraction f with f > 1 − 1/R₀, the epidemic cannot take off — R₀(1−f) ⋖ 1. Numbers: flu R₀ ≈ 1.3 → threshold ≈ 23%; a COVID-like R₀ ≈ 3 → ≈ 67%; measles R₀ ≈ 12–18 → ≈ 92%. Higher R₀, harsher the vaccination bar.
 
 </details>
 
@@ -16163,7 +16163,7 @@ Answer it yourself before opening.
 <details>
 <summary>Stuck? Open this.</summary>
 
-If n = ab is composite, the factors a, b can be *any* integers in (1, n) — say n = 101·103 = 10 403: the factors are nowhere near n − 1. Ordinary induction assumes the statement only for n − 1, which says nothing about a and b. Strong induction's hypothesis — "the statement holds for every k with 2 ≤ k < n" — covers a and b whatever they are. That coverage is exactly what the factorisation step needs.
+If n = ab is composite, the factors a, b can be *any* integers in (1, n) — say n = 101·103 = 10 403: the factors are nowhere near n − 1. Ordinary induction assumes the statement only for n − 1, which says nothing about a and b. Strong induction's hypothesis — "the statement holds for every k with 2 ≤ k ⋖ n" — covers a and b whatever they are. That coverage is exactly what the factorisation step needs.
 
 </details>
 </details>
@@ -16174,8 +16174,8 @@ If n = ab is composite, the factors a, b can be *any* integers in (1, n) — say
 **Claim**: every n ≥ 2 is prime or a product of primes.
 
 - **Base**: n = 2 is prime. ✓
-- **Strong hypothesis**: every k with 2 ≤ k < n is prime or a product of primes.
-- **Step**: let n ≥ 3. If n is prime, done. Otherwise n = ab with 1 < a ≤ b < n; by the hypothesis, a = p₁⋯pᵣ and b = q₁⋯qₛ are prime products, so n = p₁⋯pᵣq₁⋯qₛ is a prime product. ∎
+- **Strong hypothesis**: every k with 2 ≤ k ⋖ n is prime or a product of primes.
+- **Step**: let n ≥ 3. If n is prime, done. Otherwise n = ab with 1 ⋖ a ≤ b ⋖ n; by the hypothesis, a = p₁⋯pᵣ and b = q₁⋯qₛ are prime products, so n = p₁⋯pᵣq₁⋯qₛ is a prime product. ∎
 
 The well-ordering of the naturals underlies the whole manoeuvre: repeated splitting of composites must terminate at primes — there is no infinite descending chain of positive integers.
 
@@ -16215,7 +16215,7 @@ Uniqueness: if p₁⋯pᵣ = q₁⋯qₛ, then p₁ divides the right side, henc
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Every n ≥ 2 is prime or a product of primes: strong induction (base 2; composite n = ab with a, b < n covered by the strong hypothesis over *all* smaller cases — which is why ordinary induction fails, the factors need not be near n − 1). Termination is guaranteed by well-ordering; this is only the existence half of the fundamental theorem — uniqueness needs Euclid's lemma, the same wall under the irrationality proofs, and the half that breaks in ℤ[√−5] where 6 factors two genuinely different ways.
+Every n ≥ 2 is prime or a product of primes: strong induction (base 2; composite n = ab with a, b ⋖ n covered by the strong hypothesis over *all* smaller cases — which is why ordinary induction fails, the factors need not be near n − 1). Termination is guaranteed by well-ordering; this is only the existence half of the fundamental theorem — uniqueness needs Euclid's lemma, the same wall under the irrationality proofs, and the half that breaks in ℤ[√−5] where 6 factors two genuinely different ways.
 
 </details>
 
@@ -16243,7 +16243,7 @@ Settle it yourself before opening.
 √((−3)²) = √9 = **3**, not −3. The radical never returns a negative number — it returns whichever of {+3, −3} is non-negative. So the value of √(x²) depends on the sign of x:
 
 - x ≥ 0: √(x²) = x (already non-negative — no adjustment needed);
-- x < 0: √(x²) = −x (the flip makes it positive; e.g. x = −3 gives −x = 3).
+- x ⋖ 0: √(x²) = −x (the flip makes it positive; e.g. x = −3 gives −x = 3).
 
 Both cases say: √(x²) is the non-negative one of {x, −x} — that function has a name: |x|.
 
@@ -16255,7 +16255,7 @@ Both cases say: √(x²) is the non-negative one of {x, −x} — that function 
 
 √(x²) = **|x|** — check: x = −3 ⟹ √9 = 3 = |−3| ✓; x = 5 ⟹ √25 = 5 = |5| ✓.
 
-The graph is a V with vertex at the origin: slope −1 for x < 0, slope +1 for x > 0, undefined at 0. Note the moral: an expression involving a square root of a square was *not* smooth — the square root symbol smuggled in a corner.
+The graph is a V with vertex at the origin: slope −1 for x ⋖ 0, slope +1 for x > 0, undefined at 0. Note the moral: an expression involving a square root of a square was *not* smooth — the square root symbol smuggled in a corner.
 
 </details>
 
@@ -16285,7 +16285,7 @@ x² + 2x + 1 = (x+1)², so √(x² + 2x + 1) = **|x + 1|** — not x + 1. The gr
 <details>
 <summary><b>⚠️ Trap check</b></summary>
 
-1. **√(x²) = x, obviously**: false for x < 0 (x = −3 gives 3, not −3). The formula is |x|, and the error is not algebraic sloppiness — it is forgetting the √ symbol's definition.
+1. **√(x²) = x, obviously**: false for x ⋖ 0 (x = −3 gives 3, not −3). The formula is |x|, and the error is not algebraic sloppiness — it is forgetting the √ symbol's definition.
 2. **Disguised perfect squares**: √(x²+2x+1) = x+1 is the advanced version of the trap; complete the square, then take the modulus, then sketch the V.
 3. **(√x)² vs √(x²)**: the first needs x ≥ 0 and equals x there; the second exists for all x and equals |x|. Same symbols, different domains, different answers.
 4. **Differentiability slip**: |x| has no derivative at 0 (corner); treating √(x²) as "just x" also erases this feature — the corner is the signature that the modulus is really there.
@@ -16309,7 +16309,7 @@ The piecewise proof never explains *why* a modulus appears; this does. By defini
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-√(x²) = |x| — the principal root is non-negative by definition, so x < 0 must flip to −x; verified at ±3, graphed as a V with a corner at 0 (no derivative there). The upgraded trap is √(x²+2x+1) = |x+1| — a V at (−1, 0), not the line x+1; and the deep reason, not the casework: √(x²) is the *unique* non-negative number squaring to x², and |x| is the only candidate — the same uniqueness forcing √((x+1)²) = |x+1| and √(sin²x) = |sin x| wherever a square meets a root.
+√(x²) = |x| — the principal root is non-negative by definition, so x ⋖ 0 must flip to −x; verified at ±3, graphed as a V with a corner at 0 (no derivative there). The upgraded trap is √(x²+2x+1) = |x+1| — a V at (−1, 0), not the line x+1; and the deep reason, not the casework: √(x²) is the *unique* non-negative number squaring to x², and |x| is the only candidate — the same uniqueness forcing √((x+1)²) = |x+1| and √(sin²x) = |sin x| wherever a square meets a root.
 
 </details>
 
@@ -17991,7 +17991,7 @@ Expand it yourself before opening.
 <details>
 <summary>Stuck? Open this.</summary>
 
-(1 + x)⁻² = 1 − 2x + 3x² − ⋯ (binomial series, |x| < 1), with x = h/R:
+(1 + x)⁻² = 1 − 2x + 3x² − ⋯ (binomial series, |x| ⋖ 1), with x = h/R:
 
 g(h)/g₀ = 1 − 2(h)/(R) + 3((h)/(R))² − ⋯
 
@@ -18177,7 +18177,7 @@ Numbers: μ = 0.5, r = 5 m ⟹ ω ≈ √(9.8/2.5) ≈ 1.98 rad/s ≈ **19 rpm**
 <summary><b>⚠️ Trap check</b></summary>
 
 1. **Friction direction**: it acts **upward** (fighting gravity), not toward the centre — only the normal force is centripetal; assigning friction the centripetal role is the classic diagram error.
-2. **Inequality vs equality**: minimum ω occurs *at* the friction limit f = μN; using f < μN finds no extremum — the constraint must be saturated to minimise ω.
+2. **Inequality vs equality**: minimum ω occurs *at* the friction limit f = μN; using f ⋖ μN finds no extremum — the constraint must be saturated to minimise ω.
 3. **Mass survives**: m cancels — the ride works for any mass (heavy riders stick no better); a formula containing m is a mistake somewhere upstream.
 4. **Units of ω**: rad/s; the rpm conversion (×60/2π) belongs in the final line only.
 
@@ -18240,7 +18240,7 @@ Vertical projectile: h′ = (3v)²/(2g) = 9·v²/(2g) = **9h** — nine times th
 <details>
 <summary><b>🎯 Step 3: Synthesis — and the real-world discount</b></summary>
 
-Elastic ideal: h′ = 9h. Reality: inelastic collisions (coefficient of restitution e < 1), the balls' finite mass ratio, and air resistance pull the factor down — a factor of 4–6 is typical in demonstrations, still a spectacular rocket. The ideal answer states its conditions; the honest answer states their violation.
+Elastic ideal: h′ = 9h. Reality: inelastic collisions (coefficient of restitution e ⋖ 1), the balls' finite mass ratio, and air resistance pull the factor down — a factor of 4–6 is typical in demonstrations, still a spectacular rocket. The ideal answer states its conditions; the honest answer states their violation.
 
 </details>
 
@@ -18310,7 +18310,7 @@ Right scale: everything is inside the boundary — the fastening transmits the b
 
 W_beaker + W_water + **ρ_pVg**.
 
-Equal volumes ⇒ the comparison is pure density: **ρ_p vs ρ_w**. Hollow plastic (ρ_p < ρ_w): steel side descends. ρ_p = ρ_w: balance. ρ_p > ρ_w: plastic side descends.
+Equal volumes ⇒ the comparison is pure density: **ρ_p vs ρ_w**. Hollow plastic (ρ_p ⋖ ρ_w): steel side descends. ρ_p = ρ_w: balance. ρ_p > ρ_w: plastic side descends.
 
 </details>
 
@@ -18348,7 +18348,7 @@ Archimedes' principle is a surface-integral theorem: the pressure gradient in th
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-Hollow plastic (ρ_p < ρ_w): the steel-ball side descends. Left scale reads beaker + water + ρ_wVg (the buoyant reaction crossing the boundary from the externally-suspended ball); right scale reads beaker + water + ρ_pVg (the fastened ball's full weight, internal forces cancelling). Equal volumes make it a pure density contest — displaced water versus the ball — and the system-boundary method answers every variant (hanging anchors, ice, floating cargo) in seconds.
+Hollow plastic (ρ_p ⋖ ρ_w): the steel-ball side descends. Left scale reads beaker + water + ρ_wVg (the buoyant reaction crossing the boundary from the externally-suspended ball); right scale reads beaker + water + ρ_pVg (the fastened ball's full weight, internal forces cancelling). Equal volumes make it a pure density contest — displaced water versus the ball — and the system-boundary method answers every variant (hanging anchors, ice, floating cargo) in seconds.
 
 </details>
 
@@ -18610,7 +18610,7 @@ The exact equation is *not* SHM (sin θ ≠ θ). For small θ, sin θ ≈ θ (th
 
 Small-angle period: **T₀ = 2π√(l/g)**. At l = 0.5 m: T₀ ≈ 1.42 s.
 
-The approximation's error is systematic and *positive*: the true restoring torque mg sin θ < mgθ, so the true motion is slower — T > T₀ always. The next terms of the series supply the budget:
+The approximation's error is systematic and *positive*: the true restoring torque mg sin θ ⋖ mgθ, so the true motion is slower — T > T₀ always. The next terms of the series supply the budget:
 
 T/T₀ = 1 + (1)/(16)θ₀² + (11)/(3072)θ₀⁴ + ⋯ (θ₀ in radians, the amplitude).
 
@@ -18670,7 +18670,7 @@ Foucault's 67 m pendulum (1851) demonstrated Earth's rotation — the plane of s
 <details>
 <summary><b>✅ Final answer</b></summary>
 
-θ̈ = −(g/l) sin θ ≈ −(g/l)θ for θ ≪ 1, so T₀ = 2π√(l/g) ≈ 1.42 s at 0.5 m — mass-free, amplitude-independent to first order (isochronism). The approximation errs positive and quadratically: T/T₀ = 1 + θ₀²/16 + 11θ₀⁴/3072 + ⋯ gives +0.77% at 20° and ≈ +7% at 60°; the 1% crossing sits at θ₀ ≈ 0.40 rad ≈ 23° (quartic term shifts it < 0.1°), and the true period diverges as θ₀ → π. Radians in the series — always.
+θ̈ = −(g/l) sin θ ≈ −(g/l)θ for θ ≪ 1, so T₀ = 2π√(l/g) ≈ 1.42 s at 0.5 m — mass-free, amplitude-independent to first order (isochronism). The approximation errs positive and quadratically: T/T₀ = 1 + θ₀²/16 + 11θ₀⁴/3072 + ⋯ gives +0.77% at 20° and ≈ +7% at 60°; the 1% crossing sits at θ₀ ≈ 0.40 rad ≈ 23° (quartic term shifts it ⋖ 0.1°), and the true period diverges as θ₀ → π. Radians in the series — always.
 
 </details>
 
@@ -19110,9 +19110,9 @@ Attempt it yourself before opening anything.
 
 *Step 1 — the formula fails.* With a = x, b = 1/x: the denominator 1 − ab = 1 − x·(1/x) = 0 identically. The addition formula is a conditional statement, and its hypothesis never holds here.
 
-*Step 2 — patch by quadrant.* For x > 0: let u = arctan x ∈ (0, π/2); then 1/x is the reciprocal, and arctan(1/x) = π/2 − u (complementary angles: arctan t + arctan(1/t) = π/2 for t > 0). So f(x) = π/2, constant on x > 0. For x < 0: both terms are odd, so f(x) = −π/2, constant on x < 0.
+*Step 2 — patch by quadrant.* For x > 0: let u = arctan x ∈ (0, π/2); then 1/x is the reciprocal, and arctan(1/x) = π/2 − u (complementary angles: arctan t + arctan(1/t) = π/2 for t > 0). So f(x) = π/2, constant on x > 0. For x ⋖ 0: both terms are odd, so f(x) = −π/2, constant on x ⋖ 0.
 
-*Step 3 — assemble the graph.* Two horizontal half-lines: y = π/2 for x > 0 and y = −π/2 for x < 0, with x = 0 excluded (1/x undefined). As x → 0⁺, f → π/2; as x → 0⁻, f → −π/2: a jump discontinuity of magnitude π at the y-axis.
+*Step 3 — assemble the graph.* Two horizontal half-lines: y = π/2 for x > 0 and y = −π/2 for x ⋖ 0, with x = 0 excluded (1/x undefined). As x → 0⁺, f → π/2; as x → 0⁻, f → −π/2: a jump discontinuity of magnitude π at the y-axis.
 
 *Step 4 — verify.* f(1) = π/4 + π/4 = π/2 ✓; f(−1) = −π/2 ✓; derivative where defined: 1/(1 + x²) + (−1/x²)/(1 + 1/x²) = 1/(1 + x²) − 1/(1 + x²) = 0 ✓ — each piece is genuinely constant.
 
@@ -19158,7 +19158,7 @@ The full statement: arctan a + arctan b = arctan((a + b)/(1 − ab)) + π·k, wh
 <summary><b>✅ Final answer</b>
 </summary>
 
-f(x) = π/2 for x > 0, −π/2 for x < 0, undefined at 0: two horizontal half-lines with a jump discontinuity of π at the y-axis. The naive addition formula fails because its denominator 1 − x·(1/x) vanishes identically; the patch is branch-aware: for x > 0, arctan(1/x) = π/2 − arctan x; for x < 0, = −π/2 − arctan x. Checks: f(±1) = ±π/2; derivative ≡ 0 on each piece. One lesson: identities are conditional statements — test the hypothesis first.
+f(x) = π/2 for x > 0, −π/2 for x ⋖ 0, undefined at 0: two horizontal half-lines with a jump discontinuity of π at the y-axis. The naive addition formula fails because its denominator 1 − x·(1/x) vanishes identically; the patch is branch-aware: for x > 0, arctan(1/x) = π/2 − arctan x; for x ⋖ 0, = −π/2 − arctan x. Checks: f(±1) = ±π/2; derivative ≡ 0 on each piece. One lesson: identities are conditional statements — test the hypothesis first.
 
 </details>
 
@@ -19744,11 +19744,11 @@ Attempt it yourself before opening anything.
 
 *Stage 3 — asymptotes.* Vertical: x = 1; since the numerator at x = 1 is 1 ≠ 0 and the denominator is a *square*, |y| → ∞ with **no sign change** (y → +∞ from both sides). End-behaviour: as x → ±∞, y ~ x/x² = 1/x → 0; for x → +∞, y → 0⁺; for x → −∞, y → 0⁻ (the x-axis is an asymptote, approached from below on the left).
 
-*Stage 4 — turning points.* Quotient rule: y′ = [(x−1)² − x·2(x−1)]/(x−1)⁴ = (x − 1 − 2x)/(x−1)³ = −(x + 1)/(x−1)³. Stationary at x = −1, y(−1) = −1/4. Sign of y′: for x < −1, −(x+1) > 0 and (x−1)³ < 0, so y′ < 0 (decreasing); for −1 < x < 1, −(x+1) < 0 and (x−1)³ < 0, so y′ > 0 (increasing). Negative-to-positive at x = −1 ⟹ **local (and global) minimum at (−1, −1/4)** — consistent with the sign chart: the left branch is always negative, decreasing from 0⁻ (as x → −∞) down to −1/4, then rising through the origin to +∞ at x = 1.
+*Stage 4 — turning points.* Quotient rule: y′ = [(x−1)² − x·2(x−1)]/(x−1)⁴ = (x − 1 − 2x)/(x−1)³ = −(x + 1)/(x−1)³. Stationary at x = −1, y(−1) = −1/4. Sign of y′: for x ⋖ −1, −(x+1) > 0 and (x−1)³ ⋖ 0, so y′ ⋖ 0 (decreasing); for −1 ⋖ x ⋖ 1, −(x+1) ⋖ 0 and (x−1)³ ⋖ 0, so y′ > 0 (increasing). Negative-to-positive at x = −1 ⟹ **local (and global) minimum at (−1, −1/4)** — consistent with the sign chart: the left branch is always negative, decreasing from 0⁻ (as x → −∞) down to −1/4, then rising through the origin to +∞ at x = 1.
 
 *Stage 5 — assemble y².* y² = x/(x−1)² requires x ≥ 0 (right side non-negative): two branches y = ±√x/|x−1| on x ≥ 0, x ≠ 1 — mirror images, both → +∞ at x = 1, both → 0⁺ as x → ∞, both through the origin where the curve has a **vertical tangent** (dy/dx ~ ±1/(2√x) → ∞): a cusp-like touch.
 
-Self-check: y(−1) = −1/4 < 0 matches the negative left branch ✓; y(2) = 2 on the positive post-asymptote branch ✓; y² at x = 1/4 equals (1/4)/(9/16) = 4/9 ⟹ y = ±2/3 ✓.
+Self-check: y(−1) = −1/4 ⋖ 0 matches the negative left branch ✓; y(2) = 2 on the positive post-asymptote branch ✓; y² at x = 1/4 equals (1/4)/(9/16) = 4/9 ⟹ y = ±2/3 ✓.
 
 </details>
 
@@ -20027,3 +20027,5 @@ One memorised anchor short-circuits a long chain, and one independent check catc
 ---
 
 *End of Part IV.*
+
+[[#Contents]]
