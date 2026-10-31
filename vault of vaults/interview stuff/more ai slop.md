@@ -36,7 +36,7 @@
   - [5. Probability & Statistics](#5-probability--statistics)
   - [6. Fermi Estimation & Dimensional Analysis](#6-fermi-estimation--dimensional-analysis)
   - [7. Applied Mathematics (Physics/Chemistry Contexts)](#7-applied-mathematics-physicschemistry-contexts)
-  - [Extended: Oxbridge Interview Problems (Official Guidance & Recollections)](#extended-oxbridge-interview-problems-official-guidance--recollections)
+  - [[#Extended Oxbridge Interview Problems (Official Guidance & Recollections)]]
   - [Interview Technique Summary](#interview-technique-summary)
   - [Part III Method Summary — Strategies That Recur Across the Mathematics Questions](#part-iii-method-summary--strategies-that-recur-across-the-mathematics-questions)
 - [[#Part IV — Ten Moves That Make a Solution Beautiful]]
