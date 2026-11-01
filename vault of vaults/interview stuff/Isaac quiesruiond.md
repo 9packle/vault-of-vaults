@@ -4,31 +4,31 @@
 
 ### Mathematics · D3 × Very High (23 questions)
 
-| Question Title | Subject | Module | Topic | Tier | Difficulty | Interview Frequency |
-| --- | --- | --- | --- | --- | --- | --- |
-| Graph Interpreting: Beats | Mathematics | M2 Trigonometry & Geometry | beat-frequency graphs | P1 | D3 | Very High |
-| A Vertical Throw | Mathematics | M3 Calculus | vertical throw (integration) | P1 | D3 | Very High |
-| Population Growth | Mathematics | M3 Calculus | population growth (exponential) | P1 | D3 | Very High |
-| Population Near Equilibrium | Mathematics | M3 Calculus | stability near equilibrium | P1 | D3 | Very High |
-| Simple Harmonic Motion 3 | Mathematics | M3 Calculus | SHM ( variant ) | P1 | D3 | Very High |
-| Sketching Oscillator Amplitude | Mathematics | M3 Calculus | Sketching Oscillator Amplitude | P1 | D3 | Very High |
-| Sketching a Lorentzian Function | Mathematics | M3 Calculus | Sketching a Lorentzian Function | P1 | D3 | Very High |
-| Sketching a Rational Function 3 | Mathematics | M3 Calculus | rational functions sketch | P1 | D3 | Very High |
-| Partial Fractions - Cubed Linear Factor | Mathematics | M1 Algebra & Functions | Partial Fractions - Cubed Linear Factor | P2 | D3 | Very High |
-| Partial Fractions Applied to Other Functions | Mathematics | M1 Algebra & Functions | partial fractions of application | P2 | D3 | Very High |
-| Blackbody Radiation | Mathematics | M3 Calculus | Blackbody Radiation | P2 | D3 | Very High |
-| Geometry of Log Horns | Mathematics | M3 Calculus | Geometry of Log Horns | P2 | D3 | Very High |
-| Integrating 1/x | Mathematics | M3 Calculus | Integrating 1/x | P2 | D3 | Very High |
-| Integrating Factors 4 | Mathematics | M3 Calculus | Integrating Factors 4 | P2 | D3 | Very High |
-| Integration Using Trig Identities 2 | Mathematics | M3 Calculus | Integration Using Trig Identities 2 | P2 | D3 | Very High |
-| Integration Using Trig Identities 3 | Mathematics | M3 Calculus | Integration Using Trig Identities 3 | P2 | D3 | Very High |
-| Integration with Partial Fractions 3 | Mathematics | M3 Calculus | Integration with Partial Fractions 3 | P2 | D3 | Very High |
-| Log Horns: Area & Volume | Mathematics | M3 Calculus | Log Horns: Area & Volume | P2 | D3 | Very High |
-| Parametric Volumes 1 | Mathematics | M3 Calculus | Parametric Volumes 1 | P2 | D3 | Very High |
-| Parametric Volumes 2 | Mathematics | M3 Calculus | Parametric Volumes 2 | P2 | D3 | Very High |
-| Parametric Volumes 3 | Mathematics | M3 Calculus | Parametric Volumes 3 | P2 | D3 | Very High |
-| Stationary Points 4 | Mathematics | M3 Calculus | Stationary Points 4 | P2 | D3 | Very High |
-| Stationary Points 5 | Mathematics | M3 Calculus | Stationary Points 5 | P2 | D3 | Very High |
+| Question Title                               | Subject     | Module                     | Topic                                   | Tier | Difficulty | Interview Frequency |
+| -------------------------------------------- | ----------- | -------------------------- | --------------------------------------- | ---- | ---------- | ------------------- |
+| ~~Graph Interpreting: Beats~~                | Mathematics | M2 Trigonometry & Geometry | beat-frequency graphs                   | P1   | D3         | Very High           |
+| A Vertical Throw                             | Mathematics | M3 Calculus                | vertical throw (integration)            | P1   | D3         | Very High           |
+| Population Growth                            | Mathematics | M3 Calculus                | population growth (exponential)         | P1   | D3         | Very High           |
+| Population Near Equilibrium                  | Mathematics | M3 Calculus                | stability near equilibrium              | P1   | D3         | Very High           |
+| Simple Harmonic Motion 3                     | Mathematics | M3 Calculus                | SHM ( variant )                         | P1   | D3         | Very High           |
+| Sketching Oscillator Amplitude               | Mathematics | M3 Calculus                | Sketching Oscillator Amplitude          | P1   | D3         | Very High           |
+| Sketching a Lorentzian Function              | Mathematics | M3 Calculus                | Sketching a Lorentzian Function         | P1   | D3         | Very High           |
+| Sketching a Rational Function 3              | Mathematics | M3 Calculus                | rational functions sketch               | P1   | D3         | Very High           |
+| Partial Fractions - Cubed Linear Factor      | Mathematics | M1 Algebra & Functions     | Partial Fractions - Cubed Linear Factor | P2   | D3         | Very High           |
+| Partial Fractions Applied to Other Functions | Mathematics | M1 Algebra & Functions     | partial fractions of application        | P2   | D3         | Very High           |
+| Blackbody Radiation                          | Mathematics | M3 Calculus                | Blackbody Radiation                     | P2   | D3         | Very High           |
+| Geometry of Log Horns                        | Mathematics | M3 Calculus                | Geometry of Log Horns                   | P2   | D3         | Very High           |
+| Integrating 1/x                              | Mathematics | M3 Calculus                | Integrating 1/x                         | P2   | D3         | Very High           |
+| Integrating Factors 4                        | Mathematics | M3 Calculus                | Integrating Factors 4                   | P2   | D3         | Very High           |
+| Integration Using Trig Identities 2          | Mathematics | M3 Calculus                | Integration Using Trig Identities 2     | P2   | D3         | Very High           |
+| Integration Using Trig Identities 3          | Mathematics | M3 Calculus                | Integration Using Trig Identities 3     | P2   | D3         | Very High           |
+| Integration with Partial Fractions 3         | Mathematics | M3 Calculus                | Integration with Partial Fractions 3    | P2   | D3         | Very High           |
+| Log Horns: Area & Volume                     | Mathematics | M3 Calculus                | Log Horns: Area & Volume                | P2   | D3         | Very High           |
+| Parametric Volumes 1                         | Mathematics | M3 Calculus                | Parametric Volumes 1                    | P2   | D3         | Very High           |
+| Parametric Volumes 2                         | Mathematics | M3 Calculus                | Parametric Volumes 2                    | P2   | D3         | Very High           |
+| Parametric Volumes 3                         | Mathematics | M3 Calculus                | Parametric Volumes 3                    | P2   | D3         | Very High           |
+| Stationary Points 4                          | Mathematics | M3 Calculus                | Stationary Points 4                     | P2   | D3         | Very High           |
+| Stationary Points 5                          | Mathematics | M3 Calculus                | Stationary Points 5                     | P2   | D3         | Very High           |
 
 ### Mathematics · D2 × Very High (42 questions)
 
