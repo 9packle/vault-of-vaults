@@ -125,37 +125,37 @@
 
 ### Physics · D3 × Very High (29 questions)
 
-| Question Title | Subject | Module | Topic | Tier | Difficulty | Interview Frequency |
-| --- | --- | --- | --- | --- | --- | --- |
-| Battle Bus | Physics | P1 Mechanics | Battle Bus | P1 | D3 | Very High |
-| Climbing up a Corner | Physics | P1 Mechanics | Climbing up a Corner | P1 | D3 | Very High |
-| Collision in Deep Space | Physics | P1 Mechanics | Collision in Deep Space | P1 | D3 | Very High |
-| Crossing a River | Physics | P1 Mechanics | Crossing a River | P1 | D3 | Very High |
-| Jumping Over a Log | Physics | P1 Mechanics | Jumping Over a Log | P1 | D3 | Very High |
-| Maximum Deflection of a Particle | Physics | P1 Mechanics | Maximum Deflection of a Particle | P1 | D3 | Very High |
-| Projectile on a String | Physics | P1 Mechanics | Projectile on a String | P1 | D3 | Very High |
-| Pyramid of Spheres | Physics | P1 Mechanics | Pyramid of Spheres | P1 | D3 | Very High |
-| Rod and Circle | Physics | P1 Mechanics | Rod and Circle | P1 | D3 | Very High |
-| Rods, Rings and Strings | Physics | P1 Mechanics | Rods, Rings and Strings | P1 | D3 | Very High |
-| Rope Between Inclines | Physics | P1 Mechanics | Rope Between Inclines | P1 | D3 | Very High |
-| Superball | Physics | P1 Mechanics | Superball | P1 | D3 | Very High |
-| Symmetric Hanging Chain | Physics | P1 Mechanics | Symmetric Hanging Chain | P1 | D3 | Very High |
-| The Harbour Entrance | Physics | P1 Mechanics | The Harbour Entrance | P1 | D3 | Very High |
-| Three Cylinders | Physics | P1 Mechanics | Three Cylinders | P1 | D3 | Very High |
-| Three Spheres | Physics | P1 Mechanics | Three Spheres | P1 | D3 | Very High |
-| Transfer of Energy in Collisions | Physics | P1 Mechanics | Transfer of Energy in Collisions | P1 | D3 | Very High |
-| Capacitive Touchscreen | Physics | P3 Electricity & Circuits | Capacitive Touchscreen | P1 | D3 | Very High |
-| Charging Two Capacitors | Physics | P3 Electricity & Circuits | Charging Two Capacitors | P1 | D3 | Very High |
-| Discharging Capacitor | Physics | P3 Electricity & Circuits | Discharging Capacitor | P1 | D3 | Very High |
-| Wire of Varying Area | Physics | P3 Electricity & Circuits | Wire of Varying Area | P1 | D3 | Very High |
-| A Candy Cane | Physics | P1 Mechanics | A Candy Cane | P2 | D3 | Very High |
-| A Hinged Rod | Physics | P1 Mechanics | A Hinged Rod | P2 | D3 | Very High |
-| A Quarter Cylinder | Physics | P1 Mechanics | A Quarter Cylinder | P2 | D3 | Very High |
-| A Stack of Gutters | Physics | P1 Mechanics | A Stack of Gutters | P2 | D3 | Very High |
-| Flying in Circles | Physics | P1 Mechanics | Flying in Circles | P2 | D3 | Very High |
-| Frictional Circular Motion | Physics | P1 Mechanics | Frictional Circular Motion | P2 | D3 | Very High |
-| Loop the Loop | Physics | P1 Mechanics | Loop the Loop | P2 | D3 | Very High |
-| Rising Hoop | Physics | P1 Mechanics | Rising Hoop | P2 | D3 | Very High |
+| Question Title                   | Subject | Module                    | Topic                            | Tier | Difficulty | Interview Frequency |
+| -------------------------------- | ------- | ------------------------- | -------------------------------- | ---- | ---------- | ------------------- |
+| ~~Battle Bus~~                   | Physics | P1 Mechanics              | Battle Bus                       | P1   | D3         | Very High           |
+| Climbing up a Corner             | Physics | P1 Mechanics              | Climbing up a Corner             | P1   | D3         | Very High           |
+| Collision in Deep Space          | Physics | P1 Mechanics              | Collision in Deep Space          | P1   | D3         | Very High           |
+| Crossing a River                 | Physics | P1 Mechanics              | Crossing a River                 | P1   | D3         | Very High           |
+| Jumping Over a Log               | Physics | P1 Mechanics              | Jumping Over a Log               | P1   | D3         | Very High           |
+| Maximum Deflection of a Particle | Physics | P1 Mechanics              | Maximum Deflection of a Particle | P1   | D3         | Very High           |
+| Projectile on a String           | Physics | P1 Mechanics              | Projectile on a String           | P1   | D3         | Very High           |
+| Pyramid of Spheres               | Physics | P1 Mechanics              | Pyramid of Spheres               | P1   | D3         | Very High           |
+| Rod and Circle                   | Physics | P1 Mechanics              | Rod and Circle                   | P1   | D3         | Very High           |
+| Rods, Rings and Strings          | Physics | P1 Mechanics              | Rods, Rings and Strings          | P1   | D3         | Very High           |
+| Rope Between Inclines            | Physics | P1 Mechanics              | Rope Between Inclines            | P1   | D3         | Very High           |
+| Superball                        | Physics | P1 Mechanics              | Superball                        | P1   | D3         | Very High           |
+| Symmetric Hanging Chain          | Physics | P1 Mechanics              | Symmetric Hanging Chain          | P1   | D3         | Very High           |
+| The Harbour Entrance             | Physics | P1 Mechanics              | The Harbour Entrance             | P1   | D3         | Very High           |
+| Three Cylinders                  | Physics | P1 Mechanics              | Three Cylinders                  | P1   | D3         | Very High           |
+| Three Spheres                    | Physics | P1 Mechanics              | Three Spheres                    | P1   | D3         | Very High           |
+| Transfer of Energy in Collisions | Physics | P1 Mechanics              | Transfer of Energy in Collisions | P1   | D3         | Very High           |
+| Capacitive Touchscreen           | Physics | P3 Electricity & Circuits | Capacitive Touchscreen           | P1   | D3         | Very High           |
+| Charging Two Capacitors          | Physics | P3 Electricity & Circuits | Charging Two Capacitors          | P1   | D3         | Very High           |
+| Discharging Capacitor            | Physics | P3 Electricity & Circuits | Discharging Capacitor            | P1   | D3         | Very High           |
+| Wire of Varying Area             | Physics | P3 Electricity & Circuits | Wire of Varying Area             | P1   | D3         | Very High           |
+| A Candy Cane                     | Physics | P1 Mechanics              | A Candy Cane                     | P2   | D3         | Very High           |
+| A Hinged Rod                     | Physics | P1 Mechanics              | A Hinged Rod                     | P2   | D3         | Very High           |
+| A Quarter Cylinder               | Physics | P1 Mechanics              | A Quarter Cylinder               | P2   | D3         | Very High           |
+| A Stack of Gutters               | Physics | P1 Mechanics              | A Stack of Gutters               | P2   | D3         | Very High           |
+| Flying in Circles                | Physics | P1 Mechanics              | Flying in Circles                | P2   | D3         | Very High           |
+| Frictional Circular Motion       | Physics | P1 Mechanics              | Frictional Circular Motion       | P2   | D3         | Very High           |
+| Loop the Loop                    | Physics | P1 Mechanics              | Loop the Loop                    | P2   | D3         | Very High           |
+| Rising Hoop                      | Physics | P1 Mechanics              | Rising Hoop                      | P2   | D3         | Very High           |
 
 ### Physics · D2 × Very High (123 questions)
 
