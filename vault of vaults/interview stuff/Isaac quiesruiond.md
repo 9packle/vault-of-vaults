@@ -128,7 +128,7 @@
 | Question Title                   | Subject | Module                    | Topic                            | Tier | Difficulty | Interview Frequency |
 | -------------------------------- | ------- | ------------------------- | -------------------------------- | ---- | ---------- | ------------------- |
 | ~~Battle Bus~~                   | Physics | P1 Mechanics              | Battle Bus                       | P1   | D3         | Very High           |
-| Climbing up a Corner             | Physics | P1 Mechanics              | Climbing up a Corner             | P1   | D3         | Very High           |
+| ~~Climbing up a Corner~~         | Physics | P1 Mechanics              | Climbing up a Corner             | P1   | D3         | Very High           |
 | Collision in Deep Space          | Physics | P1 Mechanics              | Collision in Deep Space          | P1   | D3         | Very High           |
 | Crossing a River                 | Physics | P1 Mechanics              | Crossing a River                 | P1   | D3         | Very High           |
 | Jumping Over a Log               | Physics | P1 Mechanics              | Jumping Over a Log               | P1   | D3         | Very High           |
