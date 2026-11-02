@@ -1,14 +1,8 @@
 25
-k
-p
+k, p
 24
-o
-p
-r
+o, p, r
 23
-h
-i
+h, i
 22
-g
-h
-o
+g, h, o
