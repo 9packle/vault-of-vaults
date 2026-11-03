@@ -130,7 +130,7 @@ This is the induction-charging cycle (the same physics as the electrophorus). Th
 **1. Statement & Symbols.**
 Ṫ = −k(T − T_s), k = 100 s⁻¹ (as stated), coffee from ~90 °C to drinkable ~60 °C, room T_s = 20 °C. Estimate t.
 
-**2. Governing Principles.tt**
+**2. Governing Principles.tt **
 Newton's cooling integrates to T − T_s = ΔT₀e^(−kt); the characteristic time is 1/k.
 
 **3. Derivation.**
