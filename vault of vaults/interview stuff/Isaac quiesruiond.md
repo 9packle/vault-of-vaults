@@ -1,4 +1,4 @@
-# Isaac Maths/Physics: Difficulty × Frequency Selection (8 tables)
+x# Isaac Maths/Physics: Difficulty × Frequency Selection (8 tables)
 
 ## Mathematics
 
@@ -8,7 +8,7 @@
 | -------------------------------------------- | ----------- | -------------------------- | --------------------------------------- | ---- | ---------- | ------------------- |
 | ~~Graph Interpreting: Beats~~                | Mathematics | M2 Trigonometry & Geometry | beat-frequency graphs                   | P1   | D3         | Very High           |
 | ~~A Vertical Throw~~                         | Mathematics | M3 Calculus                | vertical throw (integration)            | P1   | D3         | Very High           |
-| Population Growth                            | Mathematics | M3 Calculus                | population growth (exponential)         | P1   | D3         | Very High           |
+| ~~Population Growth~~                        | Mathematics | M3 Calculus                | population growth (exponential)         | P1   | D3         | Very High           |
 | Population Near Equilibrium                  | Mathematics | M3 Calculus                | stability near equilibrium              | P1   | D3         | Very High           |
 | Simple Harmonic Motion 3                     | Mathematics | M3 Calculus                | SHM ( variant )                         | P1   | D3         | Very High           |
 | Sketching Oscillator Amplitude               | Mathematics | M3 Calculus                | Sketching Oscillator Amplitude          | P1   | D3         | Very High           |
