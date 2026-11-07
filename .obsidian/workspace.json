@@ -11,12 +11,14 @@
             "id": "ec142b47dae1dc1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "vault of vaults/interview stuff/stinky ai interview.pdf"
+                "file": "vault of vaults/ps stuff/draft 7.1 slop (final??).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "stinky ai interview"
+              "icon": "lucide-file",
+              "title": "draft 7.1 slop (final??)"
             }
           }
         ]
@@ -202,8 +204,8 @@
   },
   "active": "ec142b47dae1dc1e",
   "lastOpenFiles": [
-    "vault of vaults/interview stuff/剑桥面试备考题选择.pdf",
     "vault of vaults/interview stuff/stinky ai interview.pdf",
+    "vault of vaults/interview stuff/剑桥面试备考题选择.pdf",
     "vault of vaults/interview stuff/more ai slop.md",
     "vault of vaults/interview stuff/Pembroke NatSci Questions.md",
     "vault of vaults/interview stuff/Isaac quiesruiond.md",
